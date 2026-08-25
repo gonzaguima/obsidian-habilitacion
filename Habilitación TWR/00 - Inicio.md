@@ -19,6 +19,7 @@ status: activo
 - [[04 - Competencias evaluadas]]
 - [[05 - Método de estudio y registro]]
 - [[06 - Fuentes y documentos a reunir]]
+- [[08 - Fraseología TWR español-inglés]]
 - [[Repaso/Preguntas de repaso]]
 - [[Plantillas/Jornada OJT - Plantilla]]
 

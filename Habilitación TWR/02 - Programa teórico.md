@@ -66,6 +66,13 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de falla, medio alternativo y coordinación requerida.
 
+## 5 bis. Fraseología y radiotelefonía
+
+- [ ] Estudiar [[08 - Fraseología TWR español-inglés]].
+- [ ] Practicar secuencias normales de salida, circuito y llegada en ambos idiomas.
+- [ ] Practicar colaciones, correcciones, incursión de pista, motor y al aire y emergencias.
+- [ ] Confirmar fraseología y procedimientos locales con el OJTI.
+
 ## 6. Terreno y referencias
 
 - [ ] Obstáculos: ubicación y señalamiento.
@@ -109,4 +116,3 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 - [ ] Uso de recursos y solicitud de apoyo.
 - [ ] Trabajo en equipo, liderazgo y CRM.
 - [ ] Estrés y fatiga.
-
