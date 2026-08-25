@@ -1,0 +1,9 @@
+# Estado local de la interfaz de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Papelera, cachés y archivos del sistema
+.trash/
+.DS_Store
+Thumbs.db
+
