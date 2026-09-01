@@ -5,3 +5,5 @@ espacios aéreos, tma, ctr, altitudes, altitud espacios aéreos 195 245
 carta de acuerdo caisa
 fraseología y cambios
 carta de acuerdo sur
+245 es el limite del espacio C en el tma
+minimo corredor visual es 2500, maximo 065
