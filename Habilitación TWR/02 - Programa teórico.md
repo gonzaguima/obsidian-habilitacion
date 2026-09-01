@@ -10,13 +10,13 @@ Volver a [[00 - Inicio]]. Fuente principal: manual ATS-DATS-12, pp. 5–9.
 
 ## 1. Aeródromo, características físicas y ayudas visuales
 
-- [ ] Orientación, longitud y ancho de pistas.
-- [ ] Elevación de cabeceras.
-- [ ] Resistencia y limitaciones de uso.
-- [ ] Ubicación y designación de calles de rodaje.
-- [ ] Posiciones de estacionamiento y responsabilidad sobre ellas.
-- [ ] Posición prevista ante amenaza de bomba o interferencia ilícita.
-- [ ] Ayudas visuales y señalamiento de obstáculos.
+- [x] Orientación, longitud y ancho de pistas.
+- [x] Elevación de cabeceras.
+- [x] Resistencia y limitaciones de uso.
+- [x] Ubicación y designación de calles de rodaje.
+- [x] Posiciones de estacionamiento y responsabilidad sobre ellas.
+- [x] Posición prevista ante amenaza de bomba o interferencia ilícita.
+- [x] Ayudas visuales y señalamiento de obstáculos.
 
 Preguntas guía: ¿qué limitaciones cambian una autorización?, ¿dónde puede surgir una incursión?, ¿qué información debe recibir una aeronave antes de moverse?
 
