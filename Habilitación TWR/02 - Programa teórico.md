@@ -22,12 +22,12 @@ Preguntas guía: ¿qué limitaciones cambian una autorización?, ¿dónde puede 
 
 ## 2. Estructura del espacio aéreo
 
-- [ ] Clasificación aplicable.
-- [ ] Límites laterales y verticales de ATZ, CTR y TMA.
-- [ ] Servicios suministrados y limitaciones.
-- [ ] Circuito civil.
-- [ ] Circuito militar.
-- [ ] Circuito de helicópteros.
+- [x] Clasificación aplicable.
+- [x] Límites laterales y verticales de ATZ, CTR y TMA.
+- [x] Servicios suministrados y limitaciones.
+- [x] Circuito civil.
+- [x] Circuito militar.
+- [x] Circuito de helicópteros.
 
 Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo contra la publicación vigente.
 
