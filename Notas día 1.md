@@ -1,0 +1,7 @@
+
+performance pistón, turbohélice y jet
+ayudas visuales, mapa ciego de aeródromo, longitudes de pista 2133 y 1600
+espacios aéreos, tma, ctr, altitudes, altitud espacios aéreos 195 245
+carta de acuerdo caisa
+fraseología y cambios
+carta de acuerdo sur
