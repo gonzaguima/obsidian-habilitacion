@@ -287,22 +287,76 @@ Debe distinguirse de otra regla diferente: los vuelos VFR no se realizan por enc
 
 > Estas son pautas generales de control. La autorización siempre debe considerar la performance declarada o conocida de la aeronave, las condiciones meteorológicas, el terreno, la pista y las limitaciones del espacio aéreo.
 
+## Fajas de progreso de vuelo
+
+Durante la jornada se realizó una introducción general al llenado de fajas. Aunque el material `Guardia 2.xlsx` contiene un repertorio extenso de símbolos y abreviaturas, en la operación enseñada para TWR SULS se utiliza un conjunto reducido. El objetivo no es llenar la faja de símbolos, sino conservar una representación clara, breve y cronológica de los datos necesarios para controlar y reconstruir la operación.
+
+### Datos que se anotan habitualmente
+
+- **Pista utilizada:** registrar la pista en la que la aeronave efectivamente despegó o aterrizó.
+- **Hora de despegue:** hora real de salida, normalmente en minutos cuando el contexto de la hora ya está establecido.
+- **Hora de aterrizaje:** hora real de aterrizaje; si corresponde, diferenciar una aproximación frustrada.
+- **WX:** anotar `WX` cuando la aeronave copia o recibe los datos meteorológicos/datos del campo, según el uso enseñado en el puesto.
+- **Solicitudes relevantes:** dejar constancia de solicitudes que afecten la planificación, coordinación o secuencia y que sea necesario recordar. El material contempla `Rq`/solicitud, pero debe aplicarse conforme al criterio local.
+- **Instrucciones de salida:** registrar las restricciones o instrucciones que condicionan el vuelo después del despegue, por ejemplo:
+  - rumbo o **heading (HDG)**;
+  - mantenimiento de rumbo de pista;
+  - límite de ascenso o altitud autorizada;
+  - viraje o trayectoria indicada;
+  - SID o encaminamiento, cuando corresponda;
+  - cualquier otra restricción coordinada con APP.
+
+### Criterio práctico
+
+- Utilizar solo símbolos y abreviaturas conocidos y aceptados en el puesto.
+- Escribir de forma legible y ubicar cada dato en el casillero correspondiente.
+- Registrar horas e instrucciones en el momento oportuno para no depender de la memoria.
+- Actualizar la faja cuando cambie una autorización relevante.
+- Tachar o modificar sin ocultar la información anterior, de forma que la evolución del vuelo pueda reconstruirse.
+- No recargar la faja con información que no aporta al control, la coordinación o el relevo.
+
+La faja es una ayuda operacional y un registro de apoyo: no reemplaza la autorización transmitida, la colación ni la coordinación entre dependencias.
+
 ## Fraseología
 
 - Utilizar fraseología normalizada, clara, precisa y oportuna.
 - Verificar las colaciones obligatorias, especialmente pista en uso, QNH, código SSR, nivel, rumbo, velocidad, altitud o nivel de transición e instrucciones de rodaje.
-- Registrar por separado los “cambios” de fraseología mencionados durante la jornada cuando se identifique la circular correspondiente.
+
+### Criterios locales explicados para SULS
+
+En el documento *Fraseología Aeronáutica — SULS* aparecen expresiones que, aunque forman parte del material de referencia, se decidió **no utilizar en la práctica local** porque pueden dar lugar a confusión. Se emplearán las siguientes sustituciones:
+
+| Evitar | Utilizar en SULS | Ejemplo operativo |
+|---|---|---|
+| **Abandone pista** | **Libere pista** | «Libere pista por D» |
+| **Tramo a favor del viento** | **Inicial** | «Ingrese inicial pista 26» |
+| **Prolongue a favor del viento** | **Extienda inicial** | «Extienda inicial, notificaré viraje a base» |
+| **Ida al aire** | **Ejecute aproximación frustrada** | «Ejecute aproximación frustrada, [instrucciones]» |
+| **Vuele en círculos** | **Orbite** | «Orbite por derecha/izquierda desde su posición» |
+
+Estas sustituciones deben aplicarse de manera coherente, acompañadas por pista, sentido, posición, altitud o instrucciones posteriores cuando sean necesarios. En particular:
+
+- una aproximación frustrada debe incluir las instrucciones correspondientes o la referencia al procedimiento publicado;
+- una órbita debe especificar derecha o izquierda y, cuando sea necesario, el punto o posición;
+- “inicial” y “extienda inicial” deben entenderse según el circuito y el criterio local de SULS, evitando mezclarlos en una misma transmisión con “tramo a favor del viento”.
+
+> Este cuadro registra el criterio operativo enseñado en SULS. No implica que las expresiones reemplazadas hayan desaparecido de toda la fraseología nacional o internacional.
 
 ## Cartas de acuerdo
 
 - **APP–TWR SULS:** define transferencia, encaminamientos IFR/VFR, coordinaciones y cesión temporal del espacio aéreo.
 - **TWR SULS–CAISA:** regula coordinaciones con el explotador aeroportuario, especialmente movimientos de personas y vehículos y actividades en el área de maniobras.
-- **Carta de acuerdo SUR:** falta identificar si la referencia oral fue al Helipuerto Sur u otro operador/documento específico.
-
-## Preguntas para la próxima jornada
-
-1. ¿Cuál es la “carta de acuerdo SUR” mencionada: Helipuerto Sur u otra carta?
-2. ¿Qué cambios concretos de fraseología deben aplicarse y qué circular los introdujo?
+- **DINACIA–Helipuerto SUR:** la referencia oral a la “carta SUR” corresponde al acuerdo operacional con el **Helipuerto privado SUR**, Departamento de Maldonado. Sus puntos principales son:
+  - solo admite operaciones **VFR**;
+  - prohíbe expresamente operaciones **VFR especial** y **VFR nocturno** hacia y desde el helipuerto;
+  - horario operativo: desde 30 minutos antes de la salida del sol hasta 30 minutos después de la puesta del sol;
+  - requiere FPL VFR para todas las llegadas y salidas;
+  - exige transpondedor operativo en modos A y C;
+  - utiliza las condiciones meteorológicas de Laguna del Sauce;
+  - para la salida, el piloto obtiene aprobación del FPL e instrucciones de puesta en marcha de TWR Curbelo antes de arrancar; después contacta **118,3 MHz** y mantiene contacto hasta la transferencia a APP;
+  - para la llegada, mantiene contacto con APP Carrasco y luego TWR Curbelo según transferencia;
+  - por su cercanía a SULS —**3,7 NM**— no debe ingresar al CTR/ATZ Curbelo sin comunicación previa con APP Carrasco o TWR Curbelo;
+  - frecuencias: APP **119,2/120,2 MHz** y TWR Curbelo **118,3/122,1 MHz**.
 
 ## Fuentes utilizadas
 
@@ -314,6 +368,9 @@ Debe distinguirse de otra regla diferente: los vuelos VFR no se realizan por enc
 - AIP Uruguay, ENR 2 y ENR 6.1-4, *Espacio aéreo ATS y carta de área TMA Carrasco*.
 - AIP Uruguay, SULS AD 2.5-17/18 y SUPE AD 2.11-17/18.
 - Resolución DINACIA 559/2022, interpretación y aplicación de mínimos para VFR especial.
+- `Guardia 2.xlsx`, material sobre fajas, símbolos y abreviaturas.
+- *Fraseología Aeronáutica — SULS*, material local de referencia.
+- CAO DINACIA–Helipuerto SUR, Departamento de Maldonado, 2023.
 - Nota personal `Notas día 1.md`.
 
 > Nota de vigencia: este resumen sirve para estudio. Para una operación real deben verificarse la AIP y cartas vigentes, NOTAM, suplementos, activación de zonas y autorización/instrucciones ATC del momento.
