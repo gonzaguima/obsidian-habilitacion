@@ -96,18 +96,18 @@ El espacio de Curbelo no es un único cilindro. Para estudiarlo hay que separar:
 
 ### ATZ C. Curbelo
 
-| Dato                  | Valor                                                                                                                              |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Límites laterales     | Círculo de **10 NM (18,5 km)** de radio, centrado en el VOR/DME LDS: **34°51′29,9″S 055°05′30,2″W**, excepto el ATZ Punta del Este |
-| Límites verticales    | **SFC/GND–750 m** (aprox. **2.500 ft**)                                                                                            |
-| Clase                 | **C**                                                                                                                              |
-| Dependencia           | TWR SULS — **Capitán Curbelo Torre**                                                                                               |
-| Idiomas               | Español e inglés                                                                                                                   |
-| Frecuencia primaria   | **118,3 MHz**                                                                                                                      |
-| Frecuencia secundaria | **122,1 MHz**                                                                                                                      |
-| ATIS                  | **132,1 MHz**                                                                                                                      |
-| Emergencia            | **121,5 MHz**                                                                                                                      |
-| Altitud de transición | **900 m** (aprox. **3.000 ft**)                                                                                                    |
+| Dato | Valor |
+|---|---|
+| Límites laterales | Círculo de **10 NM (18,5 km)** de radio, centrado en el VOR/DME LDS: **34°51′29,9″S 055°05′30,2″W**, excepto el ATZ Punta del Este |
+| Límites verticales | **SFC/GND–750 m** (aprox. **2.500 ft**) |
+| Clase | **C** |
+| Dependencia | TWR SULS — **Capitán Curbelo Torre** |
+| Idiomas | Español e inglés |
+| Frecuencia primaria | **118,3 MHz** |
+| Frecuencia secundaria | **122,1 MHz** |
+| ATIS | **132,1 MHz** |
+| Emergencia | **121,5 MHz** |
+| Altitud de transición | **900 m** (aprox. **3.000 ft**) |
 
 #### Radioayuda LDS
 
@@ -247,12 +247,23 @@ Los procedimientos APP/TWR SULS establecen, entre otros puntos:
 - Para utilizar **2.500 ft dentro del ATZ**, TWR SULS debe coordinar previamente con APP.
 - Las salidas VFR se encaminan normalmente hasta un máximo de **2.000 ft**, salvo el encaminamiento hacia el oeste y la costa indicado hasta **1.000 ft**.
 
-### Datos anotados que requieren verificación adicional
+### Aclaraciones sobre corredores y rutas visuales
 
-- “Mínimo corredor visual: 2.500 ft”. La documentación localizada dice que **2.500 ft en el ATZ requiere coordinación previa con APP**; por eso conviene revisar qué quiso expresar exactamente el instructor con “mínimo”.
-- “Máximo 065”. Puede referirse a **FL 065**, pero falta asociarlo con el corredor o volumen exacto.
-- “Velocidad máxima 220 kt”. Falta localizar el procedimiento o carta concreta que lo establece.
-- VFR1, VFR2, VFR3 y VFR4: en las notas figuran asociados a **2.000 ft**. El procedimiento APP/TWR confirma 2.000 ft para varios encaminamientos, pero no permite generalizar todavía que sea el límite de todos los corredores en toda su extensión.
+Los valores **2.500 ft–FL065** comentados en clase correspondían al uso de los corredores/rutas visuales —por ejemplo, línea de costa o VFR1— y no a los límites verticales del ATZ Curbelo.
+
+- **2.500 ft:** primer nivel explicado para un vuelo VFR hacia el oeste, aplicando la regla semicircular de niveles VFR: millar par más 500 ft.
+- Hacia el oeste, la progresión estudiada es **2.500, 4.500 y 6.500 ft/FL065**, según corresponda expresar altitud o nivel de vuelo.
+- Para el sentido opuesto cambia la paridad de los niveles de crucero VFR.
+- **FL065:** máximo comentado para ese corredor/ruta visual; no es el límite superior general de los vuelos VFR ni del ATZ.
+- La selección del nivel debe considerar derrota magnética, altitud de transición, límites verticales del espacio, mínimas de obstáculos, condiciones meteorológicas y autorización ATC cuando corresponda.
+
+Los **2.000 ft** utilizados por TWR SULS para salidas y encaminamientos hacia Pan de Azúcar, Solís u otros puntos no se presentaron como una altitud estructural de toda la ruta VFR. Son una aplicación operativa habitual desde Curbelo, considerando separación de obstáculos, tránsito y coordinación con APP. El procedimiento APP–TWR permite esos encaminamientos normalmente hasta 2.000 ft; para utilizar 2.500 ft dentro del ATZ se requiere coordinación previa con APP.
+
+#### Velocidad
+
+La referencia correcta publicada en la AIP Uruguay es **menos de 250 kt IAS por debajo de FL100**, salvo autorización distinta de DINACIA o ATC. Es una regla aplicable a todas las aeronaves, no solamente a los vuelos visuales.
+
+Debe distinguirse de otra regla diferente: los vuelos VFR no se realizan por encima de **FL200**. Por tanto, no corresponde unir ambas como “250 kt por debajo de FL200”. Entre FL100 y el límite VFR pueden existir restricciones específicas de ruta, procedimiento o autorización, pero la limitación general de 250 kt publicada está asociada a **FL100**.
 
 ## Performance de aeronaves
 
@@ -290,10 +301,8 @@ Los procedimientos APP/TWR SULS establecen, entre otros puntos:
 
 ## Preguntas para la próxima jornada
 
-1. ¿A qué volumen o corredor corresponde exactamente el máximo FL 065 y la velocidad máxima de 220 kt?
-2. ¿La referencia a 2.500 ft era un mínimo del corredor o la altitud que TWR solo puede utilizar previa coordinación con APP?
-3. ¿Cuál es la “carta de acuerdo SUR” mencionada: Helipuerto Sur u otra carta?
-4. ¿Qué cambios concretos de fraseología deben aplicarse y qué circular los introdujo?
+1. ¿Cuál es la “carta de acuerdo SUR” mencionada: Helipuerto Sur u otra carta?
+2. ¿Qué cambios concretos de fraseología deben aplicarse y qué circular los introdujo?
 
 ## Fuentes utilizadas
 
