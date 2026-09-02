@@ -105,8 +105,21 @@ El espacio de Curbelo no es un único cilindro. Para estudiarlo hay que separar:
 | Idiomas | Español e inglés |
 | Frecuencia primaria | **118,3 MHz** |
 | Frecuencia secundaria | **122,1 MHz** |
+| ATIS | **132,1 MHz** |
 | Emergencia | **121,5 MHz** |
 | Altitud de transición | **900 m** (aprox. **3.000 ft**) |
+
+#### Radioayuda LDS
+
+| Dato | Valor |
+|---|---|
+| Tipo | VOR/DME |
+| Identificación | **LDS** |
+| Frecuencia VOR | **117,6 MHz** |
+| Canal DME | **123X** |
+| Emplazamiento | **34°51′29,9″S 055°05′30,2″W** |
+| Elevación de la antena DME | **30 m / 98 ft** |
+| Horario | **H24** |
 
 En el ATZ clase C:
 
@@ -211,7 +224,7 @@ Dentro del TMA Carrasco se encuentran las clases **G, C y A** según la capa ind
 - Sobre el mar: no más de 20 NM del litoral durante más de una hora.
 - En clases C y F: visibilidad mínima **5 km por debajo de FL100** y **8 km en FL100 o por encima**; separación de nubes **1.500 m horizontal y 300 m vertical**.
 - En clase G, a 900 m AMSL o menos, o a 300 m sobre el terreno —el valor que resulte mayor—: libre de nubes, a la vista de la superficie; visibilidad **1.500 m**, o **800 m para helicópteros**.
-- VFR especial: solo diurno; no se aplica en clase G; no se autoriza con visibilidad inferior a **1.500 m** o techo inferior a **800 ft**, ni para instrucción o entrenamiento.
+- VFR especial en Uruguay: **solo se autoriza en horario diurno**, no se aplica en clase G y no se autoriza con visibilidad inferior a **1.500 m** o techo inferior a **800 ft**, ni para instrucción o entrenamiento. El LAR 91.160 no contiene por sí mismo la limitación diurna, pero la AIP Uruguay ENR 1.2 sí la establece; la Resolución DINACIA 559/2022 dispone aplicar lo publicado en la AIP ante discrepancias hasta su modificación.
 - No se autorizan vuelos VFR nocturnos internacionales. Los VFR nocturnos nacionales deben cumplir LAR 91/135 y la reglamentación específica.
 
 #### Vuelos IFR
@@ -291,6 +304,7 @@ Los procedimientos APP/TWR SULS establecen, entre otros puntos:
 - AIP Uruguay, ENR 1.4, *Clasificación del espacio aéreo ATS*.
 - AIP Uruguay, ENR 2 y ENR 6.1-4, *Espacio aéreo ATS y carta de área TMA Carrasco*.
 - AIP Uruguay, SULS AD 2.5-17/18 y SUPE AD 2.11-17/18.
+- Resolución DINACIA 559/2022, interpretación y aplicación de mínimos para VFR especial.
 - Nota personal `Notas día 1.md`.
 
 > Nota de vigencia: este resumen sirve para estudio. Para una operación real deben verificarse la AIP y cartas vigentes, NOTAM, suplementos, activación de zonas y autorización/instrucciones ATC del momento.
