@@ -37,11 +37,51 @@ Por las notas tomadas, durante la jornada se adelantaron temas previstos para el
 
 ### Pistas
 
-- Longitudes anotadas: **2.133 m y 1.600 m**.
-- Repasar en mapa ciego: orientación y designación de pistas, calles de rodaje, plataforma, puntos de espera, emplazamiento de la torre y puntos críticos.
-- Relacionar cada pista con sus ayudas visuales y sus limitaciones operativas.
+Todas las pistas son de **concreto asfáltico** y tienen publicada una resistencia **PCR 510/F/B/X/T**.
 
-**Pendiente de completar:** ancho, resistencia, elevación de cabeceras, calles de rodaje, ayudas luminosas y restricciones de utilización de cada pista.
+| RWY | Dimensiones | Elevación del umbral | Resistencia |
+|---|---:|---:|---|
+| 01 | 1.600 × 38 m | 29 m / 95 ft | PCR 510/F/B/X/T |
+| 19 | 1.600 × 38 m | 23 m / 75 ft | PCR 510/F/B/X/T |
+| 08 | 2.133 × 45 m | 29 m / 95 ft | PCR 510/F/B/X/T |
+| 26 | 2.133 × 45 m | 22 m / 72 ft | PCR 510/F/B/X/T |
+
+### Franjas y márgenes
+
+La AIP publica las siguientes **dimensiones totales de franja**:
+
+| RWY | Dimensiones de la franja | RESA |
+|---|---:|---:|
+| 01/19 | 1.720 × 280 m | RWY 19: 60 × 60 m; RWY 01: 60 × 90 m |
+| 08/26 | 2.253 × 280 m | 90 × 90 m en ambos extremos |
+
+El ancho de franja es **280 m** en ambas pistas. La franja no debe confundirse con la pista ni con un hombro pavimentado: es el área definida alrededor de la pista destinada a reducir riesgos ante una salida de pista. La ficha AIP consultada no publica un ancho independiente de hombros; por eso no corresponde deducirlo a partir del ancho de franja.
+
+En la franja de la RWY 08/26 existen desagües abiertos a **76 m del eje**, a ambos lados y a lo largo de la franja.
+
+### Calles de rodaje
+
+Todas las calles tienen superficie de **concreto asfáltico**.
+
+| TWY | Ancho | Resistencia |
+|---|---:|---|
+| A | 15 m | PCR 470/F/A/X/T |
+| B | 18 m | PCR 290/F/C/X/T |
+| C | 23 m | PCR 510/F/B/X/T |
+| D | 23 m | PCR 510/F/B/X/T |
+| E | 10 m | PCR 70/F/C/Y/U |
+
+### Lectura rápida del código PCR
+
+Ejemplo: **PCR 510/F/B/X/T**.
+
+- **510:** valor numérico de clasificación del pavimento.
+- **F:** pavimento flexible.
+- **B:** categoría de resistencia del terreno de fundación.
+- **X:** presión máxima admisible de neumáticos, categoría alta (hasta 1,75 MPa).
+- **T:** evaluación obtenida mediante estudio técnico.
+
+Para repasar en el mapa ciego: orientación y designación de pistas, calles de rodaje, plataforma, puntos de espera, emplazamiento de la torre y puntos críticos. Relacionar cada pista con sus ayudas visuales y limitaciones operativas.
 
 ## Espacio aéreo y servicios
 
