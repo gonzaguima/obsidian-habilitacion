@@ -96,18 +96,18 @@ El espacio de Curbelo no es un único cilindro. Para estudiarlo hay que separar:
 
 ### ATZ C. Curbelo
 
-| Dato | Valor |
-|---|---|
-| Límites laterales | Círculo de **10 NM (18,5 km)** de radio, centrado en el VOR/DME LDS: **34°51′29,9″S 055°05′30,2″W**, excepto el ATZ Punta del Este |
-| Límites verticales | **SFC/GND–750 m** (aprox. **2.500 ft**) |
-| Clase | **C** |
-| Dependencia | TWR SULS — **Capitán Curbelo Torre** |
-| Idiomas | Español e inglés |
-| Frecuencia primaria | **118,3 MHz** |
-| Frecuencia secundaria | **122,1 MHz** |
-| ATIS | **132,1 MHz** |
-| Emergencia | **121,5 MHz** |
-| Altitud de transición | **900 m** (aprox. **3.000 ft**) |
+| Dato                  | Valor                                                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Límites laterales     | Círculo de **10 NM (18,5 km)** de radio, centrado en el VOR/DME LDS: **34°51′29,9″S 055°05′30,2″W**, excepto el ATZ Punta del Este |
+| Límites verticales    | **SFC/GND–750 m** (aprox. **2.500 ft**)                                                                                            |
+| Clase                 | **C**                                                                                                                              |
+| Dependencia           | TWR SULS — **Capitán Curbelo Torre**                                                                                               |
+| Idiomas               | Español e inglés                                                                                                                   |
+| Frecuencia primaria   | **118,3 MHz**                                                                                                                      |
+| Frecuencia secundaria | **122,1 MHz**                                                                                                                      |
+| ATIS                  | **132,1 MHz**                                                                                                                      |
+| Emergencia            | **121,5 MHz**                                                                                                                      |
+| Altitud de transición | **900 m** (aprox. **3.000 ft**)                                                                                                    |
 
 #### Radioayuda LDS
 
