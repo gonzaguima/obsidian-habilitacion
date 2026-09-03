@@ -31,11 +31,11 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 
 ### Día 2 — Aeródromo y espacio aéreo
 
-- [ ] Dibujar de memoria pistas, calles de rodaje y plataformas.
-- [ ] Marcar puntos críticos y posiciones de estacionamiento especiales.
-- [ ] Dibujar ATZ, CTR y TMA con límites y clasificación.
-- [ ] Repasar circuitos civiles, militares y de helicópteros.
-- [ ] Ubicar obstáculos y referencias visuales principales.
+- [x] Dibujar de memoria pistas, calles de rodaje y plataformas.
+- [x] Marcar puntos críticos y posiciones de estacionamiento especiales.
+- [x] Dibujar ATZ, CTR y TMA con límites y clasificación.
+- [x] Repasar circuitos civiles, militares y de helicópteros.
+- [x] Ubicar obstáculos y referencias visuales principales.
 
 ### Día 3 — Procedimientos y coordinación
 
