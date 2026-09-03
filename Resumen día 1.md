@@ -345,7 +345,23 @@ Estas sustituciones deben aplicarse de manera coherente, acompañadas por pista,
 ## Cartas de acuerdo
 
 - **APP–TWR SULS:** define transferencia, encaminamientos IFR/VFR, coordinaciones y cesión temporal del espacio aéreo.
-- **TWR SULS–CAISA:** regula coordinaciones con el explotador aeroportuario, especialmente movimientos de personas y vehículos y actividades en el área de maniobras.
+- **TWR SULS–CAISA:** regula la relación entre los ATS de DINACIA y los servicios de Operaciones Aeroportuarias de CAISA en el área de movimiento. Lo más importante para el trabajo de TWR es:
+  - **Responsabilidad:** TWR proporciona separación entre aeronaves y entre aeronaves y vehículos dentro del área de maniobras mediante autorizaciones. CAISA controla las plataformas y comunica cualquier condición que impida o limite una operación.
+  - **Información compartida:** ambas partes deben intercambiar todo dato que pueda afectar la operación. TWR informa, cuando sea posible, restricciones, demoras, ETA y permanencia; CAISA informa disponibilidad y asignación de estacionamientos.
+  - **Inspecciones:** CAISA realiza normalmente **cuatro inspecciones diarias** del área de maniobras: amanecer, mañana, tarde y anochecer. Coordina su ingreso y ocupación con TWR e informa el resultado al finalizar.
+  - **Hallazgos:** cualquier falla, elemento peligroso, FOD, pieza de aeronave o trozo de neumático debe comunicarse inmediatamente a TWR. TWR puede pedir una inspección adicional cuando tenga dudas sobre el estado de una pista, calle o sector.
+  - **Rodaje:** las aeronaves ruedan en contacto con TWR. TWR presume libres las plataformas salvo información contraria del piloto o de CAISA.
+  - **Estacionamientos:** CAISA asigna el puesto y lo comunica a TWR antes del ingreso de la aeronave a plataforma; TWR retransmite la asignación. Si se utiliza una pista o TWY como estacionamiento, o se cierra por obras/mantenimiento, se coordina expresamente la transferencia temporal de responsabilidad y su posterior devolución a TWR.
+  - **Follow Me:** solo CAISA, mediante personal y móvil habilitados, presta el servicio. Durante la guía, TWR se limita a indicar al piloto que siga al móvil y evita impartir instrucciones de rodaje contradictorias; la responsabilidad del rodaje corresponde al piloto y a quien guía.
+  - **Orden de salida:** TWR regula el orden para cumplir ATFM o secuenciar según performance.
+  - **Vehículos:** CAISA controla vehículos en plataforma; TWR controla su ingreso y circulación en el área de maniobras. Cada vehículo debe pedir autorización indicando punto de ingreso y destino/propósito, solicitar cada cruce, mantener escucha y contar con radio en el canal asignado; sin radio debe ingresar acompañado por un vehículo guía.
+  - **Visibilidad reducida:** ante condiciones marginales y tránsito previsto, TWR notifica a CAISA el inicio de PVR y enciende el aerofaro. CAISA suspende trabajos prescindibles, retira personal/equipos, restringe accesos e informa cuando termina. TWR puede pedir inspecciones y Follow Me. La carta prevé cancelar estos procedimientos cuando la visibilidad supere **1.500 m** y se espere que continúe mejorando.
+  - **Fauna:** CAISA realiza prevención y dispersión. TWR, las tripulaciones u Operaciones pueden solicitarla; finalizada la tarea, CAISA informa el método y resultado. Ante concentración importante se coordina la emisión de NOTAM.
+  - **GRF:** CAISA evalúa y documenta el estado de pista; transmite a TWR por cada tercio la clave de estado **RWYCC** mediante canal 1. TWR la proporciona a las tripulaciones por frecuencia aeronáutica.
+  - **Comunicaciones:** canal de coordinación y Servicio Móvil Terrestre **160,290 MHz**; TWR **118,3 MHz** primaria y **122,1 MHz** secundaria. Los distintivos operativos de CAISA incluyen **FOXTROT** y **CHARLIE**.
+  - **Limitaciones locales consignadas en la CAO:** los A320 y B737 indicados en el acuerdo realizan giros de 180° en RWY 08/26 solamente en cabeceras; la RWY 01/19 no se utiliza para aterrizajes o despegues de B738, aunque sí para rodaje. Antes de aplicarlas debe verificarse que no hayan sido modificadas por AIP, NOTAM o una enmienda posterior.
+
+  > La tabla de resistencia de pavimentos de esta CAO utiliza valores PCN antiguos. Para estudiar resistencias vigentes se emplean los valores PCR de la AIP actual incluidos en la sección de pistas y calles de rodaje.
 - **DINACIA–Helipuerto SUR:** la referencia oral a la “carta SUR” corresponde al acuerdo operacional con el **Helipuerto privado SUR**, Departamento de Maldonado. Sus puntos principales son:
   - solo admite operaciones **VFR**;
   - prohíbe expresamente operaciones **VFR especial** y **VFR nocturno** hacia y desde el helipuerto;
@@ -371,6 +387,7 @@ Estas sustituciones deben aplicarse de manera coherente, acompañadas por pista,
 - `Guardia 2.xlsx`, material sobre fajas, símbolos y abreviaturas.
 - *Fraseología Aeronáutica — SULS*, material local de referencia.
 - CAO DINACIA–Helipuerto SUR, Departamento de Maldonado, 2023.
+- CAO DINACIA–CAISA, TWR SULS–Operaciones Aeroportuarias, Enmienda 2, 30/05/2022.
 - Nota personal `Notas día 1.md`.
 
 > Nota de vigencia: este resumen sirve para estudio. Para una operación real deben verificarse la AIP y cartas vigentes, NOTAM, suplementos, activación de zonas y autorización/instrucciones ATC del momento.
