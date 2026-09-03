@@ -10,13 +10,16 @@ Volver a [[00 - Inicio]]. Fuente principal: manual ATS-DATS-12, pp. 5–9.
 
 ## 1. Aeródromo, características físicas y ayudas visuales
 
+Estado: `[x]` tratado al menos una vez; `[ ]` pendiente o todavía no desarrollado. Marcar un tema no significa que ya esté memorizado.
+
 - [x] Orientación, longitud y ancho de pistas.
 - [x] Elevación de cabeceras.
 - [x] Resistencia y limitaciones de uso.
 - [x] Ubicación y designación de calles de rodaje.
-- [x] Posiciones de estacionamiento y responsabilidad sobre ellas.
-- [x] Posición prevista ante amenaza de bomba o interferencia ilícita.
-- [x] Ayudas visuales y señalamiento de obstáculos.
+- [ ] Posiciones de estacionamiento y responsabilidad sobre ellas.
+- [ ] Posición prevista ante amenaza de bomba o interferencia ilícita.
+- [x] Ayudas visuales de pista.
+- [ ] Señalamiento y ubicación de obstáculos.
 
 Preguntas guía: ¿qué limitaciones cambian una autorización?, ¿dónde puede surgir una incursión?, ¿qué información debe recibir una aeronave antes de moverse?
 
@@ -25,20 +28,23 @@ Preguntas guía: ¿qué limitaciones cambian una autorización?, ¿dónde puede 
 - [x] Clasificación aplicable.
 - [x] Límites laterales y verticales de ATZ, CTR y TMA.
 - [x] Servicios suministrados y limitaciones.
-- [x] Circuito civil.
-- [x] Circuito militar.
-- [x] Circuito de helicópteros.
+- [ ] Circuito civil.
+- [ ] Circuito militar.
+- [ ] Circuito de helicópteros.
 
 Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo contra la publicación vigente.
 
 ## 3. Reglas, procedimientos y fuentes
 
-- [ ] POI entre TWR y APP Carrasco o ACC Montevideo.
+- [x] Introducción a transferencias entre TWR y APP Carrasco.
+- [ ] Completar POI entre TWR y APP Carrasco o ACC Montevideo.
 - [ ] Coordinación con COA.
-- [ ] Cartas de acuerdo con aeródromos privados.
+- [x] Carta de acuerdo TWR SULS–CAISA.
+- [x] Carta de acuerdo del Helipuerto SUR.
+- [ ] Otras cartas de acuerdo con aeródromos privados.
 - [ ] Doc. 4444: capítulos 3, 6, 7 y 15.
 - [ ] LAR 211 y LAR 091.
-- [ ] AIP Uruguay.
+- [x] AIP Uruguay: datos de SULS y espacio aéreo consultados.
 - [ ] Circulares operativas y administrativas.
 - [ ] MADOR.
 
@@ -47,7 +53,8 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 ## 4. Instalaciones y servicios de navegación aérea
 
-- [ ] Radioayudas: ubicación, frecuencia, uso y limitaciones.
+- [x] Radioayuda LDS VOR/DME: ubicación y frecuencia.
+- [ ] Completar uso y limitaciones de radioayudas.
 - [ ] Cartas de aproximación.
 - [ ] Aproximaciones de entrenamiento.
 - [ ] SID y STAR aplicables.
@@ -71,22 +78,30 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 - [ ] Estudiar [[08 - Fraseología TWR español-inglés]].
 - [ ] Practicar secuencias normales de salida, circuito y llegada en ambos idiomas.
 - [ ] Practicar colaciones, correcciones, incursión de pista, motor y al aire y emergencias.
-- [ ] Confirmar fraseología y procedimientos locales con el OJTI.
+- [x] Confirmar reemplazos locales para expresiones potencialmente ambiguas con el OJTI.
 
 ## 6. Terreno y referencias
 
 - [ ] Obstáculos: ubicación y señalamiento.
 - [ ] Ayudas visuales terrestres.
-- [ ] Referencias geográficas útiles para reportes y tránsito VFR.
+- [x] Referencias geográficas útiles para reportes y tránsito VFR.
 
 ## 7. Características del tránsito
 
 - [ ] Vuelos locales.
-- [ ] VMO.
+- [x] Performance general: pistón, turbohélice y jet.
+- [ ] VMO y limitaciones específicas por tipo.
 - [ ] Vuelos simulados.
-- [ ] VFR especiales.
+- [x] VFR especiales: introducción y condiciones generales.
 - [ ] Circuitos según tipo y performance de aeronave.
 - [ ] Operación de helicópteros.
+
+## 7 bis. Registro y fajas
+
+- [x] Registrar pista utilizada y horas reales de despegue/aterrizaje.
+- [x] Usar `WX` cuando se copian datos del campo.
+- [x] Anotar solicitudes relevantes e instrucciones de salida: rumbo, límite de ascenso y otras restricciones.
+- [ ] Completar simbología y casos especiales conforme al procedimiento local.
 
 ## 8. Meteorología
 

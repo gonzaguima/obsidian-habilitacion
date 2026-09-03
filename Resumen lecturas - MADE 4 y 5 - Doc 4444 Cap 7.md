@@ -1,4 +1,6 @@
-# Resumen de lectura — MADE SULS 4 y 5 + Doc. 4444 capítulo 7
+# Día 2 — MADE SULS 4 y 5 + Doc. 4444 capítulo 7
+
+> Nota separada para preparar y seguir agregando el contenido de la jornada 2. La tarea fue indicada al finalizar [[Resumen día 1#Preparación indicada para la jornada siguiente]].
 
 ## MADE SULS — Capítulo 4: posiciones y responsabilidades
 
@@ -350,13 +352,76 @@ Si solo hay tiempo para una pasada, memorizar estas diez ideas:
 9. Una transferencia anticipada de comunicaciones no significa cesión de espacio.
 10. La norma general del Doc. 4444 se complementa con el MADE, POI, CAO, AIP y NOTAM locales.
 
-## Repaso activo de 15 minutos
+## Repaso activo guiado
 
-- **3 min:** explicar sin mirar las funciones de Ejecutivo, Planificador y Autorizaciones.
-- **3 min:** recitar el chequeo de relevo y equipos.
-- **3 min:** narrar una salida completa desde llamada inicial hasta transferencia a APP.
-- **3 min:** narrar una llegada desde transferencia hasta estacionamiento.
-- **3 min:** responder: ¿cuándo se puede ingresar/cruzar pista?, ¿qué información es esencial?, ¿qué cambia en PVR?
+### Cómo hacerlo
+
+Tapá las respuestas, contestá en voz alta y recién después comprobá. Marcá cada pregunta con: **2 = completa**, **1 = incompleta**, **0 = no pude**. Volvé solamente sobre las de 0 o 1 y repetilas al final. La base para responder es esta misma nota; cada bloque indica la sección correspondiente.
+
+### Preguntas — MADE capítulo 4
+
+1. ¿Qué diferencia esencial hay entre Ejecutivo, Planificador y Autorizaciones?
+2. ¿Quién mantiene la responsabilidad de un vuelo mientras se coordina una transferencia?
+3. ¿Cuándo queda efectivamente transferida esa responsabilidad?
+
+<details><summary>Ver respuestas</summary>
+
+1. El Ejecutivo presta control y toma decisiones tácticas; el Planificador coordina, mantiene datos y anticipa conflictos; Autorizaciones gestiona autorizaciones de salida IFR y aspectos ATFM.
+2. La dependencia que lo controla continúa siendo responsable hasta que la receptora acepta y se alcanza el punto, hora o condición acordados.
+3. Cuando se cumplen tanto la aceptación/coordinación como la condición de transferencia prevista; cambiar la frecuencia por sí solo no transfiere el espacio ni la responsabilidad.
+
+Revisar: [[#MADE SULS — Capítulo 4: posiciones y responsabilidades]].
+</details>
+
+### Preguntas — MADE capítulo 5
+
+1. ¿Qué información no puede faltar al asumir la posición?
+2. ¿Qué se comprueba en los equipos y qué debe conocerse si alguno falla?
+3. ¿Qué datos deben colacionarse obligatoriamente?
+4. ¿Qué debe contener una autorización de rodaje y qué no autoriza un punto de espera?
+5. Narrá una salida desde la llamada inicial hasta la transferencia a APP.
+6. Narrá una llegada desde la transferencia hasta el estacionamiento.
+
+<details><summary>Ver respuestas</summary>
+
+1. Situación de tránsito, pista/configuración, meteorología, equipos degradados, coordinaciones pendientes, NOTAM/novedades y cualquier contingencia vigente.
+2. Estado y configuración de comunicaciones, SDD y demás CNS; para una falla, la indicación esperada, el medio alternativo y la coordinación necesaria.
+3. Autorizaciones de ruta, pista, niveles, rumbo/velocidad, códigos SSR y toda instrucción que afecte seguridad o separación.
+4. Ruta e instrucciones claras más un límite de autorización. Rodar al punto de espera no autoriza a ingresar ni cruzar la pista.
+5. Identificación/FPL → autorización y restricciones → puesta en marcha → rodaje/punto de espera → alineación → despegue → instrucciones posteriores → transferencia coordinada.
+6. Coordinación/aceptación → información de pista y meteorología → secuencia/circuito o aproximación → autorización de aterrizaje → liberación → rodaje y estacionamiento.
+
+Revisar: [[#MADE SULS — Capítulo 5: procedimientos operacionales]].
+</details>
+
+### Preguntas — Doc. 4444 capítulo 7
+
+1. ¿Cuál es la función esencial de la torre y qué debe vigilar continuamente?
+2. ¿Qué factores intervienen en la selección de pista en uso?
+3. ¿Qué información esencial debe recibir una aeronave antes de operar?
+4. ¿Cuándo se puede autorizar el ingreso o cruce de una pista?
+5. ¿Cuándo puede emitirse una autorización de despegue o aterrizaje?
+6. ¿Qué cambia durante procedimientos de poca visibilidad?
+7. ¿Qué condición imprescindible tiene la separación reducida en pista?
+
+<details><summary>Ver respuestas</summary>
+
+1. Prevenir colisiones y mantener un movimiento seguro, ordenado y expedito, vigilando aeronaves, vehículos y personas en el aeródromo y sus proximidades.
+2. Viento y ráfagas, longitud/estado de pista, ayudas disponibles, meteorología, tránsito y demoras, procedimientos y ruido subordinado a la seguridad.
+3. Pista, viento, QNH/QFE cuando corresponda, visibilidad/RVR, temperatura según corresponda, estado de pista/ayudas, tránsito esencial y fenómenos o peligros relevantes.
+4. Solo con autorización específica que incluya el designador de pista y cuando pueda protegerse la operación.
+5. Cuando exista seguridad razonable de que pista y separación estarán aseguradas en el momento pertinente.
+6. Se restringen movimientos, se protege pista y áreas críticas/sensibles, se conocen todas las ocupaciones y se coordina el comienzo y fin del procedimiento.
+7. Que exista un procedimiento aprobado/publicado basado en evaluación de seguridad y que se cumplan todas sus condiciones.
+
+Revisar: [[#Doc. 4444 — Capítulo 7: control de aeródromo]].
+</details>
+
+### Ronda rápida de 15 minutos
+
+- **5 min:** responder las preguntas 1–4 de MADE sin mirar.
+- **5 min:** narrar una salida y una llegada completas.
+- **5 min:** responder las preguntas 3–7 del Doc. 4444 y corregir solo los errores.
 
 ## Fuentes
 

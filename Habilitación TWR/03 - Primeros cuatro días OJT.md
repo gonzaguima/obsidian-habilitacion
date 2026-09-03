@@ -8,6 +8,13 @@ tags:
 
 Volver a [[00 - Inicio]]. Síntesis del plan guía del manual, pp. 12–19. Es flexible: el OJTI puede adaptarlo a la operación y al diagnóstico del entrenando.
 
+## Avance real
+
+- **Jornada 1 realizada:** el contenido no siguió estrictamente el orden previsto. Se adelantaron aeródromo, espacio aéreo, performance, rutas VFR, fajas, fraseología y cartas de acuerdo con CAISA y Helipuerto SUR.
+- **Pendiente del día 1 previsto:** briefing, relevo, fuentes al asumir, equipos CNS/SDC/SDD, configuración del puesto y práctica formal como planificador.
+- **Preparación del día 2:** MADE SULS capítulos 4 y 5 y Doc. 4444 capítulo 7.
+- Notas: [[Resumen día 1]] y [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]].
+
 ## Rutina común de cada jornada
 
 ```mermaid
@@ -95,4 +102,3 @@ Desde aquí, las jornadas sucesivas se determinan según el seguimiento y las ne
 - [ ] ¿Cuáles son los errores más frecuentes de quienes comienzan?
 - [ ] ¿Qué aspectos se espera dominar antes de pasar al puesto ejecutivo?
 - [ ] ¿Cómo se registran y priorizan los puntos a reforzar?
-

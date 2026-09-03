@@ -1,7 +1,36 @@
 # Instrucción OJT TWR SULS — Día 1
 
-> Borrador elaborado a partir de `Notas día 1.md` y de la documentación operativa entregada.
+> Esta es la **nota canónica del día 1**. Reúne los apuntes tomados, el resumen ampliado y la preparación indicada para la jornada siguiente.
 > Los puntos marcados como **pendientes de confirmar** provienen de la explicación oral y todavía no fueron localizados en una fuente documental del material disponible.
+
+## Para ubicarse rápido
+
+- **Lo dado en clase:** desde [[#Contenido que efectivamente se trató]].
+- **Repaso completo:** aeródromo, espacio aéreo, performance, fajas, fraseología y cartas de acuerdo en esta misma nota.
+- **Lectura indicada al terminar el día:** Doc. 4444 capítulo 7 y MADE SULS capítulos 4 y 5.
+- **Resumen de esas lecturas / contenido del día 2:** [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]].
+- **Planeamiento actualizado:** [[Habilitación TWR/01 - Plan de estudio]] y [[Habilitación TWR/02 - Programa teórico]].
+
+## Apuntes originales de la jornada
+
+Estos son los temas anotados durante la instrucción, ya ordenados pero sin sustituir el desarrollo que aparece más abajo:
+
+- performance de aeronaves de pistón, turbohélices y jets;
+- ayudas visuales, mapa ciego y dimensiones de las pistas;
+- ATZ, CTR y TMA; clases de espacio y límites verticales;
+- corredores y rutas visuales, niveles y encaminamientos prácticos;
+- carta de acuerdo con CAISA y carta de acuerdo del Helipuerto SUR;
+- llenado de fajas: pista utilizada, horas reales, WX, solicitudes e instrucciones de salida;
+- fraseología local elegida para evitar expresiones ambiguas.
+
+## Preparación indicada para la jornada siguiente
+
+- [ ] Leer/repasar **Doc. 4444, capítulo 7**: procedimientos del servicio de control de aeródromo.
+- [ ] Leer/repasar **MADE SULS, capítulo 4**: posiciones y atribuciones operacionales.
+- [ ] Leer/repasar **MADE SULS, capítulo 5**: procedimientos operacionales.
+- [ ] Hacer el repaso activo con preguntas y respuestas de [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7#Repaso activo guiado]].
+
+La lista queda aquí porque fue la tarea asignada al cerrar el día 1. El contenido desarrollado se mantiene separado para que funcione como inicio y base acumulativa del **día 2**.
 
 ## Qué correspondía al plan del día 1
 

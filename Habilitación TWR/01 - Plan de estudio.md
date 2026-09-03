@@ -10,6 +10,8 @@ Volver a [[00 - Inicio]].
 
 ## Principio de trabajo
 
+Estado: `[x]` tratado; `[ ]` pendiente. Si un punto fue apenas introducido, se divide para que no figure como dominado lo que todavía falta completar.
+
 No intentar memorizar todo de corrido. Para cada tema, poder responder:
 
 1. ¿Qué tengo que detectar?
@@ -23,26 +25,31 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 
 ### Día 1 — Entorno de trabajo
 
+> La primera jornada se desvió del orden previsto: se adelantó buena parte de aeródromo, espacio aéreo y coordinación. Los puntos sin marcar siguen siendo contenido pendiente del día 1 original.
+
 - [ ] Estudiar briefing, relevo y debriefing.
 - [ ] Identificar puestos y distribución de responsabilidades.
 - [ ] Enumerar fuentes que deben revisarse al asumir posición.
 - [ ] Reconocer equipos CNS, SDC, SDD y medios de reserva.
 - [ ] Preparar [[Plantillas/Jornada OJT - Plantilla]].
+- [x] Practicar el llenado básico de fajas: pista, horas reales, WX, solicitudes e instrucciones de salida.
+- [x] Revisar fraseología local destinada a evitar ambigüedades.
 
 ### Día 2 — Aeródromo y espacio aéreo
 
 - [x] Dibujar de memoria pistas, calles de rodaje y plataformas.
-- [x] Marcar puntos críticos y posiciones de estacionamiento especiales.
+- [ ] Marcar puntos críticos y posiciones de estacionamiento especiales.
 - [x] Dibujar ATZ, CTR y TMA con límites y clasificación.
-- [x] Repasar circuitos civiles, militares y de helicópteros.
-- [x] Ubicar obstáculos y referencias visuales principales.
+- [ ] Repasar circuitos civiles, militares y de helicópteros.
+- [x] Ubicar referencias visuales principales y encaminamientos VFR.
+- [ ] Completar obstáculos, elevaciones y señalamiento.
 
 ### Día 3 — Procedimientos y coordinación
 
-- [ ] Identificar dependencias y sectores adyacentes.
-- [ ] Repasar cartas de acuerdo y procedimientos interservicios.
+- [x] Identificar dependencias y sectores adyacentes: APP, CAISA, El Jagüel y Helipuerto SUR.
+- [x] Repasar las cartas de acuerdo con CAISA y Helipuerto SUR.
 - [ ] Preparar una tabla: evento → coordinación → momento → medio → fraseología.
-- [ ] Repasar transferencias, autorizaciones e información de tránsito.
+- [x] Introducir transferencias, autorizaciones e información de tránsito.
 - [ ] Identificar procedimientos ante fallas de comunicaciones.
 
 ### Día 4 — Meteorología y operación
@@ -93,4 +100,3 @@ Puntuar del 0 al 3: 0 = no puedo explicarlo; 1 = lo reconozco; 2 = lo explico; 3
 | Emergencias y contingencias |  |  |
 | Fraseología |  |  |
 | Briefing y relevo |  |  |
-
