@@ -111,6 +111,7 @@ Frecuencias principales:
 - Emergencia: **121,5 MHz**.
 - ATIS: **132,1 MHz**.
 - Servicio móvil terrestre/CAISA: **160,290 MHz**.
+- Vor: **117,6 Mhz**.
 
 Las autorizaciones e instrucciones deben ser claras, precisas, oportunas y compatibles con el tránsito, el espacio, los obstáculos, la meteorología y la performance.
 
