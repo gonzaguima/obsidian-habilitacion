@@ -5,3 +5,5 @@ Marqué algunas cosas que me parece que ya revisamos en el programa teórico y p
 Para la próxima leer lo pertinente faltante del día 3
 Repasar lectura de metar!
 Repasar aeródromos comunes y modelos de aeronave comunes
+
+leer carta de acuerdo app, condiciones de superficie de pista grf. ats pats 02 procedimiento grf suls, carta de acuerdo c
