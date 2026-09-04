@@ -42,7 +42,9 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 - [x] Carta de acuerdo TWR SULS–CAISA.
 - [x] Carta de acuerdo del Helipuerto SUR.
 - [ ] Otras cartas de acuerdo con aeródromos privados.
-- [ ] Doc. 4444: capítulos 3, 6, 7 y 15.
+- [x] Doc. 4444: capítulo 7.
+- [ ] Doc. 4444: capítulos 3, 6 y 15.
+- [x] MADE SULS: capítulos 4 y 5.
 - [ ] LAR 211 y LAR 091.
 - [x] AIP Uruguay: datos de SULS y espacio aéreo consultados.
 - [ ] Circulares operativas y administrativas.

@@ -13,6 +13,9 @@ Volver a [[00 - Inicio]]. Síntesis del plan guía del manual, pp. 12–19. Es f
 - **Jornada 1 realizada:** el contenido no siguió estrictamente el orden previsto. Se adelantaron aeródromo, espacio aéreo, performance, rutas VFR, fajas, fraseología y cartas de acuerdo con CAISA y Helipuerto SUR.
 - **Pendiente del día 1 previsto:** briefing, relevo, fuentes al asumir, equipos CNS/SDC/SDD, configuración del puesto y práctica formal como planificador.
 - **Preparación del día 2:** MADE SULS capítulos 4 y 5 y Doc. 4444 capítulo 7.
+- **Jornada 2 — teoría terminada:** repaso de MADE 4 y 5 y Doc. 4444 capítulo 7; mapa ciego; tránsito y circuitos.
+- **Jornada 2 — práctica:** aproximadamente dos horas, primero como Planificador y luego como Ejecutivo.
+- **Preparación del día 3:** procedimientos y coordinaciones pendientes, METAR, aeródromos frecuentes y modelos de aeronave habituales.
 - Notas: [[Resumen día 1]] y [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]].
 
 ## Rutina común de cada jornada

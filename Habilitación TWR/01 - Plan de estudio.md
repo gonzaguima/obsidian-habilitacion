@@ -43,6 +43,9 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 - [x] Repasar circuitos civiles, militares y de helicópteros.
 - [x] Ubicar referencias visuales principales y encaminamientos VFR.
 - [x] Completar obstáculos, elevaciones y señalamiento.
+- [x] Realizar mapa ciego durante la instrucción.
+- [x] Trabajar tránsito y circuitos.
+- [x] Practicar aproximadamente dos horas: primero Planificador y luego Ejecutivo.
 
 ### Día 3 — Procedimientos y coordinación
 
@@ -51,6 +54,10 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 - [ ] Preparar una tabla: evento → coordinación → momento → medio → fraseología.
 - [x] Introducir transferencias, autorizaciones e información de tránsito.
 - [ ] Identificar procedimientos ante fallas de comunicaciones.
+- [ ] Repasar aproximaciones instrumentales, SID y STAR aplicables.
+- [ ] Repasar plan de emergencia y contingencias CNS.
+- [ ] Practicar lectura de METAR.
+- [ ] Reconocer aeródromos y modelos de aeronave habituales.
 
 ### Día 4 — Meteorología y operación
 

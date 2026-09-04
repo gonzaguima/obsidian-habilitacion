@@ -2,6 +2,49 @@
 
 > Nota separada para preparar y seguir agregando el contenido de la jornada 2. La tarea fue indicada al finalizar [[Resumen día 1#Preparación indicada para la jornada siguiente]].
 
+## Registro real de la jornada 2
+
+### Parte teórica terminada
+
+- Se repasó el **capítulo 7 del Doc. 4444**.
+- Se repasaron los **capítulos 4 y 5 del MADE SULS**.
+- Se realizó un **mapa ciego** del aeródromo y del entorno operacional.
+- Se trabajó sobre **tránsito y circuitos**.
+
+### Práctica realizada
+
+Se realizaron aproximadamente **dos horas de control**:
+
+1. primero en funciones de **Planificador**;
+2. después en funciones de **Ejecutivo**.
+
+Esto permitió empezar a relacionar la teoría con la secuencia real de trabajo: mantener la información y las coordinaciones preparadas desde Planificación y luego tomar decisiones tácticas, ordenar el tránsito y sostener la conciencia situacional desde Ejecutivo.
+
+### Remarks de la instructora
+
+- [ ] Agregar aquí cualquier observación o corrección que surja durante el resto de la jornada.
+
+## Preparación para la jornada 3
+
+### Lectura prioritaria
+
+Tomando como base lo previsto para el día 3, leer o repasar lo que todavía falta de:
+
+- [ ] POI y procedimientos de coordinación **TWR–APP/ACC**.
+- [ ] Transferencias: dependencia responsable, condición/punto de transferencia y medio de coordinación.
+- [ ] Aproximaciones instrumentales, **SID y STAR** aplicables a SULS.
+- [ ] Plan de emergencia y prioridades iniciales.
+- [ ] Contingencias y fallas de comunicaciones, SDC, SDD y otras ayudas CNS.
+- [ ] Completar cartas o procedimientos interservicios que no se hayan visto.
+
+### Repasos breves
+
+- [ ] Volver a practicar la **lectura de METAR**.
+- [ ] Repasar aeródromos que aparecen habitualmente en los planes de vuelo y coordinaciones.
+- [ ] Repasar modelos de aeronaves habituales y asociarlos con categoría, performance y velocidad aproximada.
+
+> La lista del día 3 es una guía basada en el programa OJT. Ajustarla si la instructora indica documentos o capítulos concretos.
+
 ## MADE SULS — Capítulo 4: posiciones y responsabilidades
 
 ### Organización de TWR SULS
@@ -338,7 +381,7 @@ Una barra de parada encendida no debe cruzarse. Toda falla o funcionamiento anor
 
 ---
 
-## Lo imprescindible para mañana
+## Cierre teórico: lo imprescindible
 
 Si solo hay tiempo para una pasada, memorizar estas diez ideas:
 
