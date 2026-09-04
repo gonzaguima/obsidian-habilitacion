@@ -16,8 +16,8 @@ Estado: `[x]` tratado al menos una vez; `[ ]` pendiente o todavía no desarrolla
 - [x] Elevación de cabeceras.
 - [x] Resistencia y limitaciones de uso.
 - [x] Ubicación y designación de calles de rodaje.
-- [ ] Posiciones de estacionamiento y responsabilidad sobre ellas.
-- [ ] Posición prevista ante amenaza de bomba o interferencia ilícita.
+- [x] Posiciones de estacionamiento y responsabilidad sobre ellas.
+- [x] Posición prevista ante amenaza de bomba o interferencia ilícita.
 - [x] Ayudas visuales de pista.
 - [ ] Señalamiento y ubicación de obstáculos.
 

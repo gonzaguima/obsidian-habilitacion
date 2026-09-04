@@ -27,22 +27,22 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 
 > La primera jornada se desvió del orden previsto: se adelantó buena parte de aeródromo, espacio aéreo y coordinación. Los puntos sin marcar siguen siendo contenido pendiente del día 1 original.
 
-- [ ] Estudiar briefing, relevo y debriefing.
-- [ ] Identificar puestos y distribución de responsabilidades.
-- [ ] Enumerar fuentes que deben revisarse al asumir posición.
-- [ ] Reconocer equipos CNS, SDC, SDD y medios de reserva.
-- [ ] Preparar [[Plantillas/Jornada OJT - Plantilla]].
+- [x] Estudiar briefing, relevo y debriefing.
+- [x] Identificar puestos y distribución de responsabilidades.
+- [x] Enumerar fuentes que deben revisarse al asumir posición.
+- [x] Reconocer equipos CNS, SDC, SDD y medios de reserva.
+- [x] Preparar [[Plantillas/Jornada OJT - Plantilla]].
 - [x] Practicar el llenado básico de fajas: pista, horas reales, WX, solicitudes e instrucciones de salida.
 - [x] Revisar fraseología local destinada a evitar ambigüedades.
 
 ### Día 2 — Aeródromo y espacio aéreo
 
 - [x] Dibujar de memoria pistas, calles de rodaje y plataformas.
-- [ ] Marcar puntos críticos y posiciones de estacionamiento especiales.
+- [x] Marcar puntos críticos y posiciones de estacionamiento especiales.
 - [x] Dibujar ATZ, CTR y TMA con límites y clasificación.
-- [ ] Repasar circuitos civiles, militares y de helicópteros.
+- [x] Repasar circuitos civiles, militares y de helicópteros.
 - [x] Ubicar referencias visuales principales y encaminamientos VFR.
-- [ ] Completar obstáculos, elevaciones y señalamiento.
+- [x] Completar obstáculos, elevaciones y señalamiento.
 
 ### Día 3 — Procedimientos y coordinación
 
