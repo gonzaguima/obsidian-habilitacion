@@ -19,7 +19,7 @@ Estado: `[x]` tratado al menos una vez; `[ ]` pendiente o todavía no desarrolla
 - [x] Posiciones de estacionamiento y responsabilidad sobre ellas.
 - [x] Posición prevista ante amenaza de bomba o interferencia ilícita.
 - [x] Ayudas visuales de pista.
-- [ ] Señalamiento y ubicación de obstáculos.
+- [x] Señalamiento y ubicación de obstáculos.
 
 Preguntas guía: ¿qué limitaciones cambian una autorización?, ¿dónde puede surgir una incursión?, ¿qué información debe recibir una aeronave antes de moverse?
 
@@ -28,9 +28,9 @@ Preguntas guía: ¿qué limitaciones cambian una autorización?, ¿dónde puede 
 - [x] Clasificación aplicable.
 - [x] Límites laterales y verticales de ATZ, CTR y TMA.
 - [x] Servicios suministrados y limitaciones.
-- [ ] Circuito civil.
-- [ ] Circuito militar.
-- [ ] Circuito de helicópteros.
+- [x] Circuito civil.
+- [x] Circuito militar.
+- [x] Circuito de helicópteros.
 
 Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo contra la publicación vigente.
 
