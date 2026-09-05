@@ -8,7 +8,7 @@
 - **Lo realizado:** repaso del Doc. 4444 capítulo 7 y MADE SULS capítulos 4 y 5; mapa ciego; tránsito y circuitos; carta ADIZ; práctica como Planificador y Ejecutivo.
 - **Repaso normativo desarrollado:** [[#MADE SULS — posiciones y responsabilidades]], [[#MADE SULS — procedimientos operacionales]] y [[#Doc. 4444 — control de aeródromo]].
 - **Aplicación práctica:** [[#Mapa ciego, tránsito y circuitos]], [[#Práctica en posición]] y [[#ADIZ — Zona de Identificación de Defensa Aérea]].
-- **Nota de lectura previa:** [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]].
+- **Todo el repaso de MADE 4 y 5 y Doc. 4444 capítulo 7 está integrado en esta nota.**
 
 ## Apuntes originales de la jornada
 
@@ -90,6 +90,11 @@ Cuando está habilitado:
 - difunde y gestiona medidas ATFM;
 - ayuda a reducir demoras y a equilibrar demanda y capacidad.
 
+### Jefaturas
+
+- El **Jefe de Turno** es el responsable operativo del turno: distribuye puestos y hace aplicar las normas y procedimientos vigentes.
+- El **Jefe de TWR SULS** dirige la dependencia en su dimensión técnico-administrativa y asiste a la Jefatura Operativa.
+
 ### Responsabilidad y transferencia
 
 - Todo vuelo controlado debe estar bajo el control de **una sola dependencia ATC** en cada momento.
@@ -169,6 +174,50 @@ Si todavía no existe un NOTAM, la condición se transmite en lenguaje claro. Cu
 - En la práctica local se registran especialmente pista, horas reales, `WX`, solicitudes y restricciones o instrucciones relevantes.
 - El sistema puede generar fajas nuevas por cambios; también se utilizan las anotaciones y símbolos admitidos por el procedimiento local.
 
+### ATFM, FPL y capacidad
+
+- Al asumir deben conocerse las regulaciones y los espacios, rutas o aeropuertos afectados.
+- TWR puede iniciar medidas cuando la demanda supera la capacidad o existe una degradación operacional.
+- La capacidad depende de pista, meteorología, equipos, configuración, personal y complejidad; no es solamente una cifra de movimientos.
+- Los FPL deben estar correctos y procesados. Si una regulación obliga a modificarlos, se coordina el cambio y se informa a las dependencias y al operador.
+- En alta temporada, el puesto de Autorizaciones apoya específicamente el seguimiento de medidas y horarios ATFM.
+
+### Frecuencias de referencia
+
+| Servicio | Frecuencia |
+|---|---:|
+| TWR primaria | 118,3 MHz |
+| TWR secundaria | 122,1 MHz |
+| Emergencia | 121,5 MHz |
+| ATIS | 132,1 MHz |
+| Servicio móvil terrestre / CAISA | 160,290 MHz |
+| VOR/DME LDS | 117,6 MHz |
+
+Las frecuencias deben comprobarse siempre contra la publicación y configuración vigentes.
+
+### Coordinaciones habituales
+
+Además de APP, TWR coordina según necesidad con Operaciones DINACIA, INUMET, CAISA, Mantenimiento, SSEI/Bomberos, Policía Aérea y Armada. Si un vuelo cambia de IFR a VFR, se informa cuanto antes a las dependencias que recibieron el FPL IFR y todavía puedan resultar afectadas.
+
+### Secuencia práctica de una salida
+
+1. Confirmar identificación, destino, reglas de vuelo y hora prevista.
+2. Verificar el FPL y corregir discrepancias.
+3. Proporcionar pista, meteorología e información esencial.
+4. Obtener y entregar autorización ATC, SID o instrucciones de salida.
+5. Coordinar puesta en marcha, rodaje y orden de salida.
+6. Autorizar el despegue cuando pista y separación estén aseguradas.
+7. Verificar activación, correlación y Modo C según corresponda; transferir a APP cuando esté libre de tránsito.
+
+### Secuencia práctica de una llegada
+
+1. Recibir la transferencia con trayectoria y condiciones conocidas.
+2. Confirmar pista, meteorología, RCR si existe y tránsito esencial.
+3. Integrar la llegada con circuito y movimientos de superficie.
+4. Autorizar el aterrizaje cuando pista y separación estén aseguradas.
+5. Indicar liberación y rodaje.
+6. Coordinar o informar el puesto asignado por CAISA.
+
 ---
 
 ## Doc. 4444 — control de aeródromo
@@ -240,6 +289,35 @@ Tienen prioridad, según corresponda:
 ### Servicio de alerta
 
 La torre alerta a SSEI y a las dependencias previstas cuando ocurre un accidente, una aeronave está o puede estar en peligro, lo solicita la tripulación o el controlador lo considera necesario. La información útil incluye tipo de aeronave, naturaleza de la emergencia, personas a bordo y mercancías peligrosas, si se conocen.
+
+### Separación reducida en pista
+
+No puede aplicarse por costumbre. Requiere:
+
+- evaluación de seguridad y procedimiento aprobado/publicado;
+- visibilidad, horario, categorías y condiciones locales exigidas;
+- información adecuada a las aeronaves;
+- ausencia de situaciones o tipos de aeronave excluidos.
+
+### Poca visibilidad
+
+Durante procedimientos de poca visibilidad:
+
+- se restringen personas y vehículos;
+- se protege la pista y las áreas críticas y sensibles;
+- todas las ocupaciones deben ser conocidas y controladas;
+- se coordina con APP y las demás unidades el inicio y la finalización;
+- una barra de parada encendida no debe cruzarse.
+
+### Suspensión de VFR y VFR especial
+
+- La suspensión de VFR se canaliza por la torre y se comunica a dependencias y operadores afectados.
+- El VFR especial requiere aprobación de APP, autorización individual y tránsito compatible.
+- En Uruguay se aplican las condiciones publicadas en la AIP: operación diurna, visibilidad no inferior a 1.500 m, techo de 800 ft o más, no aplicable en clase G y no autorizado para instrucción o entrenamiento.
+
+### Luces aeronáuticas
+
+TWR debe conocer y operar, según condiciones y procedimiento local, las luces de aproximación, borde, umbral y extremo de pista, calles de rodaje, obstáculos y barras de parada. Toda falla o funcionamiento anormal se informa, registra y trata conforme al plan aplicable.
 
 ---
 
