@@ -8,4 +8,3 @@ aprender a fondo las cartas, puntos, distancias, altitudes, frustradas, etc
 - Queda leer la carta con COA; ya está resumida en [[Resumen día 3]].
 - El plan de emergencia se mantiene como tarea para día 4, según la asignación previa.
 
-![[Pasted image 20260908094811.png]]
