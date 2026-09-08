@@ -8,6 +8,8 @@ tags:
 
 Volver a [[00 - Inicio]]. Fuente principal: manual ATS-DATS-12, pp. 5–9.
 
+> Actualización 08/09/2026: el entrenando confirma completado el programa de la jornada 3, con **4 h como Ejecutivo** y varias aproximaciones VOR/RNP a distintas pistas. Queda pendiente **leer la CAO con COA**. Las marcas indican temas tratados; los bloques generales no incluidos en esa jornada siguen abiertos.
+
 ## 1. Aeródromo, características físicas y ayudas visuales
 
 Estado: `[x]` tratado al menos una vez; `[ ]` pendiente o todavía no desarrollado. Marcar un tema no significa que ya esté memorizado.
@@ -37,9 +39,11 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 ## 3. Reglas, procedimientos y fuentes
 
 - [x] Introducción a transferencias entre TWR y APP Carrasco.
-- [ ] Completar POI entre TWR y APP Carrasco o ACC Montevideo.
-- [ ] Coordinación con COA.
+- [x] Completar POI entre TWR y APP Carrasco o ACC Montevideo. — día 3.
+- [ ] Leer y repasar coordinación con COA — única lectura pendiente de la jornada 3; resumen disponible en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
 - [x] Carta de acuerdo TWR SULS–CAISA.
+- [x] Procedimiento GRF SULS y coordinación CAISA — día 3.
+- [x] Carta de acuerdo meteorológica y Anexo II SULS — día 3.
 - [x] Carta de acuerdo del Helipuerto SUR.
 - [ ] Otras cartas de acuerdo con aeródromos privados.
 - [x] Doc. 4444: capítulo 7.
@@ -57,9 +61,13 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 - [x] Radioayuda LDS VOR/DME: ubicación y frecuencia.
 - [ ] Completar uso y limitaciones de radioayudas.
-- [ ] Cartas de aproximación.
-- [ ] Aproximaciones de entrenamiento.
-- [ ] SID y STAR aplicables.
+- [x] Cartas de aproximación. — día 3.
+- [x] Práctica de control de aproximaciones VOR y RNP a distintas pistas — 4 h como Ejecutivo en día 3.
+- [ ] Particularidades de las aproximaciones de entrenamiento de las aeronaves — no confundirlas con la práctica del controlador.
+- [x] Bloque de procedimientos instrumentales aplicables — día 3.
+
+El índice AIP SULS consultado no incluye SID/STAR. No se atribuye ejecución de esos procedimientos ni vigencia a las cartas de proyecto.
+
 - [ ] Estado de radioayudas y forma de verificarlo.
 
 ## 5. Equipos de control y utilización
@@ -70,7 +78,8 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 - [ ] Comunicaciones de emergencia.
 - [ ] Reflector de señales.
 - [ ] Monitores de estado de radioayudas.
-- [ ] Estación meteorológica automática.
+- [x] Estación meteorológica automática: funciones y respaldos de la CAO meteo — día 3.
+- [ ] Completar manejo y comprobación de los equipos meteo en el puesto.
 - [ ] Instrumentos analógicos alternativos.
 
 Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de falla, medio alternativo y coordinación requerida.
@@ -107,20 +116,22 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 
 ## 8. Meteorología
 
-- [ ] Nubes, niebla y bruma.
-- [ ] Techo y visibilidad; determinación de visibilidad en pista.
-- [ ] Viento y cortante de viento.
+- [x] Nubes, niebla y bruma. — día 3.
+- [x] Techo y visibilidad; determinación de visibilidad en pista. — día 3.
+- [x] Viento y cortante de viento. — día 3.
 - [ ] Turbulencia y engelamiento.
 - [ ] QNH, QFE y QNE.
-- [ ] METAR, TAF, SIGMET y SPECI.
-- [ ] Transmisión y recepción de información meteorológica.
+- [x] METAR y SPECI — día 3.
+- [ ] Profundizar interpretación de TAF y SIGMET con informes reales.
+- [x] Transmisión y recepción de información meteorológica. — día 3.
 
 ## 9. Emergencias y búsqueda y salvamento
 
-- [ ] Plan de emergencia del aeródromo.
+- [ ] Plan de emergencia del aeródromo — asignado al día 4.
 - [ ] Alertas y cadena de notificación.
 - [ ] Emergencias e interferencia ilícita.
-- [ ] Contingencias y degradación CNS.
+- [x] Contingencias y fallas de comunicaciones del bloque APP–TWR y meteo — día 3.
+- [ ] Completar contingencias y degradación CNS: escenarios de otros equipos, energía y luces.
 
 ## 10. Dimensión actitudinal
 

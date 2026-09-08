@@ -1,5 +1,7 @@
 # Instrucción OJT TWR SULS — Día 3
 
+> Jornada 3 completada según confirmación del entrenando del 08/09/2026: **4 h como Ejecutivo**, con varias aproximaciones VOR y RNP a distintas pistas. **Lectura pendiente: CAO con COA**, cuyo resumen está incluido aquí.
+
 > Resumen integrado del día 3: reúne las lecturas que quedaron asignadas al terminar el día 2 y las incorporaciones de `Notas dia 3.md`. Incluye APP–TWR, GRF/CAISA, METAR, cartas de aproximación, CAO meteorológica y CAO con COA, con repaso activo en esta misma nota.
 
 ## Para ubicarse rápido
@@ -21,7 +23,15 @@ Las notas del día 3 dicen:
 
 “Lo ya establecido” se relaciona con las tareas anotadas al terminar el día 2: lectura de APP–TWR, procedimiento GRF SULS, acuerdo con CAISA sobre GRF, repaso de METAR, cartas de aproximación y reconocimiento de aeródromos/modelos habituales. Todo ese contenido queda desarrollado aquí, junto con las dos cartas nuevas.
 
-Las notas no registran horas de práctica, tránsitos concretos ni correcciones del instructor del día 3; por eso esta nota documenta las **lecturas y su aplicación de estudio**, sin dar por realizadas actividades que no quedaron anotadas. El **plan de emergencia** quedó expresamente indicado para el **día 4**.
+### Confirmación posterior de lo trabajado
+
+El 08/09/2026 el entrenando confirmó que **se dio todo lo programado para el día 3**, con la excepción de la **lectura de la CAO con COA**, que aún queda por hacer. Se consideran trabajados el bloque APP–TWR, GRF/CAISA, METAR y CAO meteorológica, cartas, contingencias previstas y familiarización con aeródromos/modelos de esa jornada.
+
+La práctica fue de **4 horas como Ejecutivo**, controlando **varias aproximaciones VOR y RNP a distintas pistas**. No se especificaron cantidad exacta, designadores de pista, tránsitos ni correcciones, por lo que no se atribuyen operaciones concretas adicionales ni un nivel de autonomía.
+
+Sumadas a las aproximadamente 2 h del día 2, quedan **unas 6 h de práctica acumulada**. Son 4 h de Ejecutivo en día 3 más la porción de Ejecutivo no desglosada del día 2; no son 6 h exclusivamente como Ejecutivo.
+
+El **plan de emergencia** se mantiene como lectura expresamente asignada para el **día 4**.
 
 ## Relación con el plan OJT
 
@@ -621,6 +631,8 @@ La CAO general de 2024 fija un plazo de dos años; la copia disponible no acredi
 
 ## 6. CAO con COA — coordinación civil–militar
 
+> **Lectura pendiente**, confirmada el 08/09/2026. Este apartado ya está preparado para estudiarlo; su inclusión no significa que la carta haya sido leída.
+
 Fuente: **Carta DCA–COA**, firmada el 27/09/2023. La **Circular Interna 018/2023**, incluida al comienzo del PDF, establece entrada en vigor el **20/11/2023** y deja sin aplicación el plazo original de su §9.2.
 
 **COA** es el **Centro de Operaciones Aéreas de la Fuerza Aérea Uruguaya**. La carta organiza intercambio de información, responsabilidades y coordinación para compatibilizar seguridad nacional, seguridad operacional y uso del espacio aéreo.
@@ -823,7 +835,7 @@ Sin mirar, explicar una llegada IFR a SULS con pista mojada, una aeronave que re
 
 ## Fuentes y pendientes concretos
 
-- `Notas dia 3.md` y `Notas día 2.md`, del vault **Habilitación TWR**: alcance de las lecturas. Los originales se conservan.
+- `Notas dia 3.md` y `Notas día 2.md`, del vault **Habilitación TWR**: alcance de las lecturas. Las notas del día 3 incorporan la confirmación posterior del entrenando sobre contenidos y práctica.
 - `Resumen lecturas - APP-TWR, GRF, METAR y cartas SULS.md`, copia de Work actualizada el 06/09/2026: base integrada de APP–TWR, GRF, METAR y cuadros de cartas.
 - **ATS-PATS-007 APP-TWR SULS v2.0**, encabezado ATS-PATS-07, 20/11/2025: §§2–7, coordinación y transferencias.
 - **ATS-PATS-02 Procedimiento GRF SULS v1.0** y **CAO TWR SULS–CAISA, Anexo 10**: superficie de pista.

@@ -11,12 +11,16 @@ Volver a [[00 - Inicio]]. Síntesis del plan guía del manual, pp. 12–19. Es f
 ## Avance real
 
 - **Jornada 1 realizada:** el contenido no siguió estrictamente el orden previsto. Se adelantaron aeródromo, espacio aéreo, performance, rutas VFR, fajas, fraseología y cartas de acuerdo con CAISA y Helipuerto SUR.
-- **Pendiente del día 1 previsto:** briefing, relevo, fuentes al asumir, equipos CNS/SDC/SDD, configuración del puesto y práctica formal como planificador.
+- **Seguimiento del entorno de trabajo:** la nota 01 marca tratados briefing/relevo, fuentes y reconocimiento de equipos; completar/verificar su aplicación en el puesto. La práctica como Planificador ya comenzó en día 2.
 - **Preparación del día 2:** MADE SULS capítulos 4 y 5 y Doc. 4444 capítulo 7.
 - **Jornada 2 — teoría terminada:** repaso de MADE 4 y 5 y Doc. 4444 capítulo 7; mapa ciego; tránsito y circuitos.
 - **Jornada 2 — práctica:** aproximadamente dos horas, primero como Planificador y luego como Ejecutivo.
-- **Preparación del día 3:** procedimientos y coordinaciones pendientes, METAR, aeródromos frecuentes y modelos de aeronave habituales.
-- Notas: [[Resumen día 1]] y [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]].
+- **Jornada 3 — programa completado:** procedimientos y coordinaciones APP–TWR, GRF/CAISA, METAR/SPECI y CAO meteo, cartas de aproximación, contingencias previstas y aeródromos/modelos habituales; confirmado por el entrenando el 08/09/2026.
+- **Jornada 3 — práctica:** **4 h como Ejecutivo**, controlando varias aproximaciones VOR y RNP a distintas pistas.
+- **Lectura pendiente del día 3:** CAO con COA, ya resumida en [[Resumen día 3]].
+- **Práctica acumulada:** aproximadamente **6 h** entre jornadas 2 y 3; 4 h exclusivamente como Ejecutivo en jornada 3, más la parte no desglosada del día 2.
+- **Preparación del día 4:** PEA SULS, lectura COA pendiente, profundización meteo e integración operativa.
+- Notas: [[Resumen día 1]], [[Resumen día 2]], [[Resumen día 3]] y [[Balance jornadas 1 a 3 - Pendientes y día 4]].
 
 ## Rutina común de cada jornada
 
@@ -69,6 +73,8 @@ flowchart LR
 - practicar detección anticipada de puntos de conflicto.
 
 ## Día 3 — Coordinaciones, contingencias y ejecutivo
+
+> Programa de la jornada completado. La lectura COA queda pendiente y el plan de emergencia se mantiene en día 4 según la asignación real, aunque figure aquí en el plan guía.
 
 ### Se espera trabajar
 

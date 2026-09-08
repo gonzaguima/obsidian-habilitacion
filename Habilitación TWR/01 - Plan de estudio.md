@@ -49,23 +49,35 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 
 ### Día 3 — Procedimientos y coordinación
 
+> Jornada completada según confirmación del entrenando del 08/09/2026: todo lo programado para el día 3 fue trabajado, con **4 h de práctica como Ejecutivo**, controlando varias aproximaciones VOR y RNP a distintas pistas. **Única lectura pendiente del día 3: CAO con COA**. El PEA se mantiene para el día 4, como se había asignado.
+
 - [x] Identificar dependencias y sectores adyacentes: APP, CAISA, El Jagüel y Helipuerto SUR.
 - [x] Repasar las cartas de acuerdo con CAISA y Helipuerto SUR.
-- [ ] Preparar una tabla: evento → coordinación → momento → medio → fraseología.
+- [x] Preparar una tabla: evento → coordinación → momento → medio → fraseología.
 - [x] Introducir transferencias, autorizaciones e información de tránsito.
-- [ ] Identificar procedimientos ante fallas de comunicaciones.
-- [ ] Repasar aproximaciones instrumentales, SID y STAR aplicables.
-- [ ] Repasar plan de emergencia y contingencias CNS.
-- [ ] Practicar lectura de METAR.
-- [ ] Reconocer aeródromos y modelos de aeronave habituales.
+- [x] Identificar procedimientos ante fallas de comunicaciones.
+- [x] Repasar aproximaciones instrumentales y procedimientos de salida/llegada aplicables.
+- [x] Practicar como Ejecutivo durante 4 h, con aproximaciones VOR y RNP a distintas pistas.
+
+SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre del bloque no acredita uso de las cartas de proyecto.
+
+- [x] Repasar contingencias CNS previstas para el día 3.
+- [ ] Leer el plan de emergencia del aeródromo — asignado al día 4.
+- [x] Practicar lectura de METAR.
+- [x] Reconocer aeródromos y modelos de aeronave habituales.
+
+- [x] Trabajar POI APP–TWR, GRF/CAISA y CAO meteorológica.
+- [ ] Leer CAO con COA — ya resumida en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
 
 ### Día 4 — Meteorología y operación
 
 - [ ] Interpretar METAR, SPECI, TAF y SIGMET reales.
-- [ ] Repasar techo, visibilidad, viento y cortante de viento.
+- [x] Repasar techo, visibilidad, viento y cortante de viento — trabajado en día 3.
+- [ ] Consolidarlo con casos reales durante el día 4.
 - [ ] Diferenciar QNH, QFE y QNE.
 - [ ] Relacionar fenómenos meteorológicos con pista, circuito y separaciones.
-- [ ] Practicar cómo transmitir información meteorológica de forma concisa.
+- [x] Trabajar recepción y transmisión meteorológica — día 3.
+- [ ] Consolidar la transmisión concisa durante la práctica del día 4.
 
 ### Día 5 — Emergencias y contingencias
 
@@ -91,6 +103,12 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 - [ ] Agregar meteorología adversa o una falla de equipo.
 - [ ] Contestar [[Repaso/Preguntas de repaso]] sin mirar apuntes.
 - [ ] Marcar dudas para el primer briefing con el OJTI.
+
+## Práctica acumulada registrada
+
+- Día 2: aproximadamente **2 h**, entre Planificador y Ejecutivo; reparto no registrado.
+- Día 3: **4 h como Ejecutivo**, con aproximaciones VOR y RNP a distintas pistas.
+- Total: aproximadamente **6 h de práctica**. El tiempo como Ejecutivo es 4 h más la parte de Ejecutivo del día 2.
 
 ## Diagnóstico inicial
 
