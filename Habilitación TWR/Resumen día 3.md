@@ -471,20 +471,20 @@ Para practicar: *“We are approaching the initial approach fix”* = estamos ll
 
 Los valores siguientes son una ayuda de estudio tomada de las cartas consultadas; deben verificarse siempre en la carta vigente y para la categoría real de aeronave.
 
-| Procedimiento | Mínimo publicado | Visibilidad |
-|---|---:|---:|
-| RNP Z RWY 01 — LNAV/VNAV | 345 ft OCA / 250 ft OCH | 1.300 m |
-| RNP Z RWY 01 — LNAV | 440 / 345 ft | 1.600 m |
-| RNP Z RWY 08 — LNAV/VNAV | 380 / 285 ft | 900 m; 1.400 m ALS inoperativo |
-| RNP Z RWY 08 — LNAV | 480 / 385 ft | 1.400 m; 1.800 m ALS inoperativo |
-| RNP Z RWY 19 — LNAV/VNAV | 371 / 296 ft | 900 m; 1.400 m ALS inoperativo |
-| RNP Z RWY 19 — LNAV | 460 / 385 ft | 1.400 m; 1.800 m ALS inoperativo |
-| RNP Z RWY 26 — LNAV/VNAV | 322 / 250 ft | 800 m; 1.300 m ALS inoperativo |
-| RNP Z RWY 26 — LNAV | 430 / 358 ft | 1.300 m; 1.700 m ALS inoperativo |
-| VOR Z RWY 01 | 460 / 365 ft | 1.700 m |
-| VOR Z RWY 08 | 530 / 435 ft | 1.600 m; 2.000 m ALS inoperativo |
-| VOR Z RWY 19 | 540 / 465 ft | 1.800 m; 2.200 m ALS inoperativo |
-| VOR Z RWY 26 | 480 / 408 ft | 1.500 m; 1.900 m ALS inoperativo |
+| Procedimiento            |        Mínimo publicado |                      Visibilidad |
+| ------------------------ | ----------------------: | -------------------------------: |
+| RNP Z RWY 01 — LNAV/VNAV | 345 ft OCA / 250 ft OCH |                          1.300 m |
+| RNP Z RWY 01 — LNAV      |            440 / 345 ft |                          1.600 m |
+| RNP Z RWY 08 — LNAV/VNAV |            380 / 285 ft |   900 m; 1.400 m ALS inoperativo |
+| RNP Z RWY 08 — LNAV      |            480 / 385 ft | 1.400 m; 1.800 m ALS inoperativo |
+| RNP Z RWY 19 — LNAV/VNAV |            371 / 296 ft |   900 m; 1.400 m ALS inoperativo |
+| RNP Z RWY 19 — LNAV      |            460 / 385 ft | 1.400 m; 1.800 m ALS inoperativo |
+| RNP Z RWY 26 — LNAV/VNAV |            322 / 250 ft |   800 m; 1.300 m ALS inoperativo |
+| RNP Z RWY 26 — LNAV      |            430 / 358 ft | 1.300 m; 1.700 m ALS inoperativo |
+| VOR Z RWY 01             |            460 / 365 ft |                          1.700 m |
+| VOR Z RWY 08             |            530 / 435 ft | 1.600 m; 2.000 m ALS inoperativo |
+| VOR Z RWY 19             |            540 / 465 ft | 1.800 m; 2.200 m ALS inoperativo |
+| VOR Z RWY 26             |            480 / 408 ft | 1.500 m; 1.900 m ALS inoperativo |
 
 `OCA/H` expresa altitud/altura de franqueamiento de obstáculos. No debe confundirse automáticamente con una DA/H o MDA/H operacional sin aplicar los criterios del operador y de la aeronave.
 
