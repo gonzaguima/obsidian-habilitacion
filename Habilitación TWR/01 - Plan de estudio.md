@@ -62,22 +62,22 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre del bloque no acredita uso de las cartas de proyecto.
 
 - [x] Repasar contingencias CNS previstas para el día 3.
-- [ ] Leer el plan de emergencia del aeródromo — asignado al día 4.
+- [x] Leer el plan de emergencia del aeródromo — asignado al día 4.
 - [x] Practicar lectura de METAR.
 - [x] Reconocer aeródromos y modelos de aeronave habituales.
 
 - [x] Trabajar POI APP–TWR, GRF/CAISA y CAO meteorológica.
-- [ ] Leer CAO con COA — ya resumida en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
+- [x] Leer CAO con COA — ya resumida en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
 
 ### Día 4 — Meteorología y operación
 
-- [ ] Interpretar METAR, SPECI, TAF y SIGMET reales.
+- [x] Interpretar METAR, SPECI, TAF y SIGMET reales.
 - [x] Repasar techo, visibilidad, viento y cortante de viento — trabajado en día 3.
-- [ ] Consolidarlo con casos reales durante el día 4.
-- [ ] Diferenciar QNH, QFE y QNE.
-- [ ] Relacionar fenómenos meteorológicos con pista, circuito y separaciones.
+- [x] Consolidarlo con casos reales durante el día 4.
+- [x] Diferenciar QNH, QFE y QNE.
+- [x] Relacionar fenómenos meteorológicos con pista, circuito y separaciones.
 - [x] Trabajar recepción y transmisión meteorológica — día 3.
-- [ ] Consolidar la transmisión concisa durante la práctica del día 4.
+- [x] Consolidar la transmisión concisa durante la práctica del día 4.
 
 ### Día 5 — Emergencias y contingencias
 
