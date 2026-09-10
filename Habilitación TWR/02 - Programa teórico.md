@@ -40,7 +40,7 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 - [x] Introducción a transferencias entre TWR y APP Carrasco.
 - [x] Completar POI entre TWR y APP Carrasco o ACC Montevideo. — día 3.
-- [ ] Leer y repasar coordinación con COA — única lectura pendiente de la jornada 3; resumen disponible en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
+- [x] Leer y repasar coordinación con COA — única lectura pendiente de la jornada 3; resumen disponible en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
 - [x] Carta de acuerdo TWR SULS–CAISA.
 - [x] Procedimiento GRF SULS y coordinación CAISA — día 3.
 - [x] Carta de acuerdo meteorológica y Anexo II SULS — día 3.
