@@ -130,11 +130,11 @@ Las **alertas 1/2/3 del PEA** organizan la respuesta aeroportuaria. Las **fases 
 
 Fuente: LAR 211, capítulo E, §§211.710–211.730, copia de diciembre de 2023.
 
-| Fase | Criterios esenciales de estudio |
-|---|---|
-| **INCERFA — incertidumbre** | Falta de comunicación durante 30 min según el punto de cómputo reglamentario; o no llegada dentro de 30 min de la ETA pertinente, salvo que no existan dudas sobre seguridad. |
-| **ALERFA — alerta** | Persisten intentos/consultas sin noticias; no aterriza dentro de 5 min de la hora prevista tras autorización y no se restablece contacto; funcionamiento anormal sin probable aterrizaje forzoso; o interferencia ilícita conocida/sospechada. |
-| **DETRESFA — peligro** | Búsqueda de información infructuosa que hace suponer peligro; combustible agotado/insuficiente para lugar seguro; funcionamiento que hace probable aterrizaje forzoso; o certeza razonable de aterrizaje forzoso inminente/realizado, con las salvedades reglamentarias. |
+| Fase                        | Criterios esenciales de estudio                                                                                                                                                                                                                                          |     |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| **INCERFA — incertidumbre** | Falta de comunicación durante 30 min según el punto de cómputo reglamentario; o no llegada dentro de 30 min de la ETA pertinente, salvo que no existan dudas sobre seguridad.                                                                                            |     |
+| **ALERFA — alerta**         | Persisten intentos/consultas sin noticias; no aterriza dentro de 5 min de la hora prevista tras autorización y no se restablece contacto; funcionamiento anormal sin probable aterrizaje forzoso; o interferencia ilícita conocida/sospechada.                           |     |
+| **DETRESFA — peligro**      | Búsqueda de información infructuosa que hace suponer peligro; combustible agotado/insuficiente para lugar seguro; funcionamiento que hace probable aterrizaje forzoso; o certeza razonable de aterrizaje forzoso inminente/realizado, con las salvedades reglamentarias. |     |
 
 Para **INCERFA**: en comunicaciones se cuenta desde la hora de recepción esperada o desde el primer intento infructuoso, **lo primero**; para llegada se usa la última ETA anunciada o calculada, **la más tardía**. Los plazos no autorizan a demorar una respuesta cuando otra información ya justifica una fase mayor.
 
