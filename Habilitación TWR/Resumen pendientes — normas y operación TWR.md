@@ -7,7 +7,7 @@ tags:
 
 # Pendientes teóricos — normas y operación TWR
 
-Este resumen cubre las lecturas normativas que aún figuran abiertas en [[02 - Programa teórico]]. Es una guía de estudio: la AIP, NOTAM, CAO, cartillas y procedimientos vigentes prevalecen sobre ella.
+Este resumen cubre las lecturas normativas que aún figuran abiertas en [02 - Programa teórico](02%20-%20Programa%20te%C3%B3rico.md). Es una guía de estudio: la AIP, NOTAM, CAO, cartillas y procedimientos vigentes prevalecen sobre ella.
 
 ## Doc. 4444: capítulos 3, 6 y 15
 
@@ -27,7 +27,7 @@ La autorización de una aeronave en salida o llegada puede incluir restricciones
 
 Organiza el servicio ante emergencia, comunicaciones fallidas e imprevistos. Prioridades: dar máxima atención a la aeronave afectada, suministrar la ayuda disponible, proteger al resto del tránsito, informar a dependencias/servicios pertinentes y registrar/actualizar la situación. No sustituye el PEA local ni el procedimiento de contingencia de SULS.
 
-Relacionarlo con [[Lecturas día 5 — Emergencias y contingencias]]: allí están resumidos el PEA, los circuitos locales y los respaldos de radio de SULS.
+Relacionarlo con [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md): allí están resumidos el PEA, los circuitos locales y los respaldos de radio de SULS.
 
 ## LAR 211 y LAR 91: qué buscar
 
@@ -82,4 +82,4 @@ Las aproximaciones de entrenamiento son solicitudes de una aeronave, no ejercici
 - Doc. 4444, edición 2016 con enmienda de noviembre de 2025, capítulos 3, 6 y 15.
 - LAR 211, 2.ª edición, diciembre de 2023; LAR 91, 2.ª edición, diciembre de 2023.
 - ATS-MATS-003 MADOR v5.0; AIP Uruguay vigente y CAO/circulares aplicables.
-- [[Resumen día 3]], [[Resumen día 4]] y [[Lecturas día 5 — Emergencias y contingencias]].
+- [Resumen día 3](Resumen%20d%C3%ADa%203.md), [Resumen día 4](Resumen%20d%C3%ADa%204.md) y [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).

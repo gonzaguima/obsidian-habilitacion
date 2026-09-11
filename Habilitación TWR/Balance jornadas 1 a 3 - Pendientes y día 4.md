@@ -7,7 +7,7 @@ tags:
 
 # Balance de jornadas 1–4 — pendientes y día 5
 
-**Actualizado el 10/09/2026 con la confirmación directa del entrenando.** Comparación de [[01 - Plan de estudio]], [[02 - Programa teórico]] y los resúmenes de jornada. Las lecturas del día 4 están confirmadas; no hay notas de su práctica.
+**Actualizado el 10/09/2026 con la confirmación directa del entrenando.** Comparación de [01 - Plan de estudio](01%20-%20Plan%20de%20estudio.md), [02 - Programa teórico](02%20-%20Programa%20te%C3%B3rico.md) y los resúmenes de jornada. Las lecturas del día 4 están confirmadas; no hay notas de su práctica.
 
 ## Cómo viene el progreso
 
@@ -47,7 +47,7 @@ La nota 01 organiza una semana de **preparación de estudio**, mientras la nota 
 
 ### Lecturas cerradas desde la última actualización
 
-- [x] **CAO con COA**, resumida en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]], completada en el día 4.
+- [x] **CAO con COA**, resumida en [Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4](Resumen%20d%C3%ADa%204.md#3-cao-con-coa-lectura-pendiente-que-se-integra-al-d%C3%ADa-4), completada en el día 4.
 - [x] **PEA SULS, alertas y cadena local de notificación**, completados en el día 4.
 
 ### Continuación del programa general
@@ -71,11 +71,11 @@ Estos son bloques todavía abiertos en los planes; **no son una lista de temas i
 
 ## Qué toca el día 5
 
-**Prioridades:** emergencias y contingencias: repasar PEA/SAR, estudiar degradaciones de SDC, SDD/vigilancia, radioayudas, energía y luces, y continuar la práctica supervisada con esa integración. Ver [[Lecturas día 5 — Emergencias y contingencias]].
+**Prioridades:** emergencias y contingencias: repasar PEA/SAR, estudiar degradaciones de SDC, SDD/vigilancia, radioayudas, energía y luces, y continuar la práctica supervisada con esa integración. Ver [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).
 
 ### Preparación
 
-- [ ] Leer la guía [[Lecturas día 5 — Emergencias y contingencias]].
+- [ ] Leer la guía [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).
 - [ ] Llevar dudas puntuales de PEA, degradación CNS y medios alternativos.
 
 ### Durante la instrucción
@@ -95,8 +95,8 @@ Estos son bloques todavía abiertos en los planes; **no son una lista de temas i
 ## Fuentes y criterio de actualización
 
 - Confirmación directa del entrenando del **08/09/2026**: jornada 3 completada, **4 h como Ejecutivo**, varias aproximaciones VOR/RNP a distintas pistas y **CAO COA pendiente de lectura**.
-- [[Notas dia 3]] y [[Resumen día 3]], actualizados con esa confirmación.
-- [[Resumen día 1]], [[Resumen día 2]], [[01 - Plan de estudio]], [[02 - Programa teórico]] y [[03 - Primeros cuatro días OJT]].
-- [[Notas día 2]]: PEA asignado para día 4; esta asignación se conserva.
+- [Notas dia 3](Notas%20dia%203.md) y [Resumen día 3](Resumen%20d%C3%ADa%203.md), actualizados con esa confirmación.
+- [Resumen día 1](Resumen%20d%C3%ADa%201.md), [Resumen día 2](Resumen%20d%C3%ADa%202.md), [01 - Plan de estudio](01%20-%20Plan%20de%20estudio.md), [02 - Programa teórico](02%20-%20Programa%20te%C3%B3rico.md) y [03 - Primeros cuatro días OJT](03%20-%20Primeros%20cuatro%20d%C3%ADas%20OJT.md).
+- [Notas día 2](Notas%20d%C3%ADa%202.md): PEA asignado para día 4; esta asignación se conserva.
 
 Las marcas de los planes se ajustaron para reflejar el día 3 confirmado, separando temas compuestos cuando mezclaban contenido ya trabajado con contenido posterior.

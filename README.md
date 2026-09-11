@@ -25,18 +25,17 @@ Reúne el plan de estudio, apuntes por jornada, repasos operativos, ejercicios d
 | Mejora continua | [10 - Dudas operacionales abiertas](Habilitaci%C3%B3n%20TWR/10%20-%20Dudas%20operacionales%20abiertas.md), [12 - Evidencia y objetivos OJT](Habilitaci%C3%B3n%20TWR/12%20-%20Evidencia%20y%20objetivos%20OJT.md), [13 - Repaso teórico progresivo](Habilitaci%C3%B3n%20TWR/13%20-%20Repaso%20te%C3%B3rico%20progresivo.md) |
 | Aproximaciones | [14 - Aproximaciones RNP Z y VOR Z SULS](Habilitaci%C3%B3n%20TWR/14%20-%20Aproximaciones%20RNP%20Z%20y%20VOR%20Z%20SULS.md) |
 | Emergencias | [Lecturas día 5 — Emergencias y contingencias](Habilitaci%C3%B3n%20TWR/Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md) |
-| Referencias | [Documentos](Habilitaci%C3%B3n%20TWR/DOCUMENTOS/), [documentos de consulta](Habilitaci%C3%B3n%20TWR/DOCUMENTOS%20DE%20CONSULTA/) |
 
 ## Forma de uso
 
-- Mantener los enlaces `[[internos]]` para conservar la navegación entre notas en Obsidian.
+- Los enlaces internos usan Markdown relativo para funcionar tanto en Obsidian como en GitHub.
 - Registrar al finalizar cada jornada: situaciones observadas, correcciones del OJTI, evidencia y siguiente objetivo concreto.
 - Marcar como completado solo el contenido realmente tratado; la aplicación en puesto debe seguir diferenciada de la lectura teórica.
 - Anotar edición, fecha de vigencia y enmiendas al tomar datos de un documento de referencia.
 
 ## Documentación de referencia
 
-Las carpetas [DOCUMENTOS](Habilitaci%C3%B3n%20TWR/DOCUMENTOS/) y [DOCUMENTOS DE CONSULTA](Habilitaci%C3%B3n%20TWR/DOCUMENTOS%20DE%20CONSULTA/) contienen manuales, AIP, procedimientos, cartas de acuerdo, formularios, estadísticas y otros materiales de consulta. Pueden quedar desactualizados: verificar siempre su vigencia antes de usarlos en la operación o en una evaluación.
+Las fuentes operacionales deben consultarse en sus publicaciones oficiales y vigentes. Verificar siempre edición, fecha de vigencia y enmiendas antes de usarlas en la operación o en una evaluación.
 
 ## Alcance y confidencialidad
 

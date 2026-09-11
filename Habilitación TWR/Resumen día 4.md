@@ -434,7 +434,7 @@ Las rutas locales son relativas a `/home/ghost/Work`.
 - **PEA SULS**, `DOCUMENTOS DE CONSULTA/Planes de Emergencia de Aerodromos/PEA SULS junio 2022.pdf`: §2.2 alertas; §2.3 zonas; capítulo 3 mando/control; §§4.3–4.6 comunicaciones, alarma y cierre; §§7.3, 7.6–7.7; **Anexo A, cartilla TWR, páginas impresas 77–78**. La numeración impresa difiere de la posición física en el PDF.
 - **MADE SULS v2.0**, `DOCUMENTOS/ATS-MADE-11 Manual SULS - v2.0.pdf`: definiciones y §6.4, asistencia, interferencia ilícita y amenaza de bomba.
 - **LAR 211**, `DOCUMENTOS DE CONSULTA/LAR/LAR 211-Gestion de Transito Aereo_2da.-Edicion-DIC2023.pdf`: capítulo E, especialmente §§211.715–211.730.
-- **CAO DCA–COA**, `DOCUMENTOS DE CONSULTA/CAO NACIONALES/CAO entre DCA-COA  vigencia a partir 20-11-2023.pdf`: circular inicial, §§3–7 y anexos; resumen integrado desde [[Resumen día 3]].
+- **CAO DCA–COA**, `DOCUMENTOS DE CONSULTA/CAO NACIONALES/CAO entre DCA-COA  vigencia a partir 20-11-2023.pdf`: circular inicial, §§3–7 y anexos; resumen integrado desde [Resumen día 3](Resumen%20d%C3%ADa%203.md).
 - **CAO ATS–INUMET y Anexo II SULS**, `DOCUMENTOS DE CONSULTA/CAO NACIONALES/INUMET/`: reparto OMA/OVM/EMA, productos y circuito de aeronotificaciones.
 - **Anexo 3 OACI**, `DOCUMENTOS DE CONSULTA/Manuales y Anexos OACI/ANEXOS/Anexo 03 Servicio Meteorologico_es 2021.pdf`: capítulo 6/apéndice 5 para TAF y capítulo 7/apéndice 6 para SIGMET. Ejemplos de esta nota inventados con finalidad didáctica.
 - **AIP ENR 1.7 y SULS AD 2.5**, en `DOCUMENTOS DE CONSULTA/AIP Uruguay - descarga 2026-09-08/Secciones AIP/`: reglaje altimétrico, tabla de transición y cartas locales descargadas de [DINACIA AIS](https://www.dinacia.gub.uy/ais/aip-uruguay).

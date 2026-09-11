@@ -6,7 +6,7 @@ tags:
 
 # Competencias evaluadas
 
-Volver a [[00 - Inicio]]. Basado en el marco incluido en el Anexo I del manual, pp. 20–23 y formularios posteriores.
+Volver a [00 - Inicio](00%20-%20Inicio.md). Basado en el marco incluido en el Anexo I del manual, pp. 20–23 y formularios posteriores.
 
 ## Escala utilizada
 

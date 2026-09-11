@@ -6,7 +6,7 @@ tags:
 
 # Primeros cuatro días OJT
 
-Volver a [[00 - Inicio]]. Síntesis del plan guía del manual, pp. 12–19. Es flexible: el OJTI puede adaptarlo a la operación y al diagnóstico del entrenando.
+Volver a [00 - Inicio](00%20-%20Inicio.md). Síntesis del plan guía del manual, pp. 12–19. Es flexible: el OJTI puede adaptarlo a la operación y al diagnóstico del entrenando.
 
 ## Avance real
 
@@ -17,10 +17,10 @@ Volver a [[00 - Inicio]]. Síntesis del plan guía del manual, pp. 12–19. Es f
 - **Jornada 2 — práctica:** aproximadamente **3–4 h como Ejecutivo**, con coordinaciones esporádicas como Planificador.
 - **Jornada 3 — programa completado:** procedimientos y coordinaciones APP–TWR, GRF/CAISA, METAR/SPECI y CAO meteo, cartas de aproximación, contingencias previstas y aeródromos/modelos habituales; confirmado por el entrenando el 08/09/2026.
 - **Jornada 3 — práctica:** aproximadamente **3–4 h como Ejecutivo**, controlando varias aproximaciones VOR y RNP a distintas pistas, con coordinaciones esporádicas como Planificador.
-- **Lectura COA:** completada dentro de las lecturas del día 4, ya resumida en [[Resumen día 3]].
+- **Lectura COA:** completada dentro de las lecturas del día 4, ya resumida en [Resumen día 3](Resumen%20d%C3%ADa%203.md).
 - **Práctica acumulada jornadas 1–4:** aproximadamente **12–16 h como Ejecutivo** (3–4 h diarias), más coordinaciones esporádicas como Planificador cuya duración no fue registrada.
 - **Lecturas del día 4 completadas:** PEA SULS y alertas, COA, QNH/QFE/QNE, TAF/SIGMET y fenómenos asociados; confirmadas el 10/09/2026. No hay aún notas de práctica ni correcciones.
-- Notas: [[Resumen día 1]], [[Resumen día 2]], [[Resumen día 3]] y [[Balance jornadas 1 a 3 - Pendientes y día 4]].
+- Notas: [Resumen día 1](Resumen%20d%C3%ADa%201.md), [Resumen día 2](Resumen%20d%C3%ADa%202.md), [Resumen día 3](Resumen%20d%C3%ADa%203.md) y [Balance jornadas 1 a 3 - Pendientes y día 4](Balance%20jornadas%201%20a%203%20-%20Pendientes%20y%20d%C3%ADa%204.md).
 
 ## Rutina común de cada jornada
 

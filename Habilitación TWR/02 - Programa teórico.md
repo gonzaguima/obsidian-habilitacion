@@ -6,7 +6,7 @@ tags:
 
 # Programa teórico
 
-Volver a [[00 - Inicio]]. Fuente principal: manual ATS-DATS-12, pp. 5–9.
+Volver a [00 - Inicio](00%20-%20Inicio.md). Fuente principal: manual ATS-DATS-12, pp. 5–9.
 
 > Actualización 10/09/2026: además de la jornada 3 confirmada, el entrenando confirma completadas las **lecturas del día 4**: PEA/alertas, CAO con COA, altimetría y meteorología aplicada. No se registraron todavía práctica ni correcciones del OJTI de esa jornada.
 
@@ -38,11 +38,11 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 ## 3. Reglas, procedimientos y fuentes
 
-Resumen de pendientes: [[Resumen pendientes — normas y operación TWR]].
+Resumen de pendientes: [Resumen pendientes — normas y operación TWR](Resumen%20pendientes%20%E2%80%94%20normas%20y%20operaci%C3%B3n%20TWR.md).
 
 - [x] Introducción a transferencias entre TWR y APP Carrasco.
 - [x] Completar POI entre TWR y APP Carrasco o ACC Montevideo. — día 3.
-- [x] Leer y repasar coordinación con COA — lectura completada en día 4; resumen disponible en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]].
+- [x] Leer y repasar coordinación con COA — lectura completada en día 4; resumen disponible en [Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4](Resumen%20d%C3%ADa%204.md#3-cao-con-coa-lectura-pendiente-que-se-integra-al-d%C3%ADa-4).
 - [x] Carta de acuerdo TWR SULS–CAISA.
 - [x] Procedimiento GRF SULS y coordinación CAISA — día 3.
 - [x] Carta de acuerdo meteorológica y Anexo II SULS — día 3.
@@ -61,7 +61,7 @@ Resumen de pendientes: [[Resumen pendientes — normas y operación TWR]].
 
 ## 4. Instalaciones y servicios de navegación aérea
 
-Resumen de pendientes: [[Resumen pendientes — normas y operación TWR]] y [[Resumen pendientes — puesto, fraseología y tránsito]].
+Resumen de pendientes: [Resumen pendientes — normas y operación TWR](Resumen%20pendientes%20%E2%80%94%20normas%20y%20operaci%C3%B3n%20TWR.md) y [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md).
 
 - [x] Radioayuda LDS VOR/DME: ubicación y frecuencia.
 - [ ] Completar uso y limitaciones de radioayudas.
@@ -76,7 +76,7 @@ El índice AIP SULS consultado no incluye SID/STAR. No se atribuye ejecución de
 
 ## 5. Equipos de control y utilización
 
-Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]]; contingencias: [[Lecturas día 5 — Emergencias y contingencias]].
+Resumen de pendientes: [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md); contingencias: [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).
 
 - [ ] SDD: configuración, funciones, FPL y etiqueta.
 - [ ] SDC: telefonía y comunicaciones.
@@ -92,16 +92,16 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 
 ## 5 bis. Fraseología y radiotelefonía
 
-Material de estudio: [[08 - Fraseología TWR español-inglés]] y [[Resumen pendientes — puesto, fraseología y tránsito]].
+Material de estudio: [08 - Fraseología TWR español-inglés](08%20-%20Fraseolog%C3%ADa%20TWR%20espa%C3%B1ol-ingl%C3%A9s.md) y [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md).
 
-- [ ] Estudiar [[08 - Fraseología TWR español-inglés]].
+- [ ] Estudiar [08 - Fraseología TWR español-inglés](08%20-%20Fraseolog%C3%ADa%20TWR%20espa%C3%B1ol-ingl%C3%A9s.md).
 - [ ] Practicar secuencias normales de salida, circuito y llegada en ambos idiomas.
 - [ ] Practicar colaciones, correcciones, incursión de pista, motor y al aire y emergencias.
 - [x] Confirmar reemplazos locales para expresiones potencialmente ambiguas con el OJTI.
 
 ## 6. Terreno y referencias
 
-Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]].
+Resumen de pendientes: [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md).
 
 - [ ] Obstáculos: ubicación y señalamiento.
 - [ ] Ayudas visuales terrestres.
@@ -109,7 +109,7 @@ Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito
 
 ## 7. Características del tránsito
 
-Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]].
+Resumen de pendientes: [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md).
 
 - [ ] Vuelos locales.
 - [x] Performance general: pistón, turbohélice y jet.
@@ -121,7 +121,7 @@ Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito
 
 ## 7 bis. Registro y fajas
 
-Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]].
+Resumen de pendientes: [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md).
 
 - [x] Registrar pista utilizada y horas reales de despegue/aterrizaje.
 - [x] Usar `WX` cuando se copian datos del campo.
@@ -130,7 +130,7 @@ Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito
 
 ## 8. Meteorología
 
-Resumen de pendiente: [[Resumen pendientes — puesto, fraseología y tránsito]].
+Resumen de pendiente: [Resumen pendientes — puesto, fraseología y tránsito](Resumen%20pendientes%20%E2%80%94%20puesto,%20fraseolog%C3%ADa%20y%20tr%C3%A1nsito.md).
 
 - [x] Nubes, niebla y bruma. — día 3.
 - [x] Techo y visibilidad; determinación de visibilidad en pista. — día 3.
@@ -143,7 +143,7 @@ Resumen de pendiente: [[Resumen pendientes — puesto, fraseología y tránsito]
 
 ## 9. Emergencias y búsqueda y salvamento
 
-Material de estudio: [[Lecturas día 5 — Emergencias y contingencias]].
+Material de estudio: [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).
 
 - [x] Plan de emergencia del aeródromo — lectura completada en día 4.
 - [x] Alertas y cadena de notificación.
@@ -153,7 +153,7 @@ Material de estudio: [[Lecturas día 5 — Emergencias y contingencias]].
 
 ## 10. Dimensión actitudinal
 
-Material de estudio: [[Resumen pendiente — competencias OJT]].
+Material de estudio: [Resumen pendiente — competencias OJT](Resumen%20pendiente%20%E2%80%94%20competencias%20OJT.md).
 
 - [ ] Relación con instructor y equipo.
 - [ ] Comunicación interpersonal.

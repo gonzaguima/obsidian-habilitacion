@@ -78,6 +78,6 @@ Para la **AIP**, se revisaron y descargaron los enlaces actuales del índice ofi
 |---|---|---|---|---|
 | MADOR | v5.0, según archivo | Por confirmar | Archivo local; vigencia pendiente | 08/09/2026 |
 | PEA SULS | Junio de 2022, según archivo | Por confirmar | Archivo local; vigencia pendiente | 08/09/2026 |
-| CAO general ATS–INUMET | Copia 2024–2026 | Renovación por confirmar | Archivo local; véase observación documental de [[Resumen día 3]] | 08/09/2026 |
-| Anexo II meteo SULS | Efectividad indicada: 01/11/2025 | 01/11/2025, según documento | Copia local, resumida en [[Resumen día 3]] | 08/09/2026 |
+| CAO general ATS–INUMET | Copia 2024–2026 | Renovación por confirmar | Archivo local; véase observación documental de [Resumen día 3](Resumen%20d%C3%ADa%203.md) | 08/09/2026 |
+| Anexo II meteo SULS | Efectividad indicada: 01/11/2025 | 01/11/2025, según documento | Copia local, resumida en [Resumen día 3](Resumen%20d%C3%ADa%203.md) | 08/09/2026 |
 | AIP SULS y ENR | Archivos enlazados por AIS al 08/09/2026; fechas por página | Según cada publicación; AIRAC 05 separada hasta 29/10/2026 | DINACIA → AIS → AIP; registro local de descargas | 08/09/2026 |

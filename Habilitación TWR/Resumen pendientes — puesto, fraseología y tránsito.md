@@ -23,7 +23,7 @@ Para SDD, SDC, luces, comunicaciones de emergencia, reflector, monitores de radi
 | Monitores de radioayudas | Estado que muestran, ayuda/procedimiento afectado y qué aviso requiere. | El monitor no habilita por sí solo una aproximación. |
 | Meteo automático y analógico | Fuente, hora, coherencia con observación y contingencia. | Una discrepancia se comunica y trata según CAO; no se corrige por intuición. |
 
-La lectura base está en MADE SULS §§5.1–5.7 y en [[Resumen día 2]]. Para fallas CNS y radios, completar [[Lecturas día 5 — Emergencias y contingencias]].
+La lectura base está en MADE SULS §§5.1–5.7 y en [Resumen día 2](Resumen%20d%C3%ADa%202.md). Para fallas CNS y radios, completar [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).
 
 ## Fraseología y colaciones
 
@@ -42,7 +42,7 @@ Una ayuda visual terrestre es una referencia para la operación o la navegación
 ## Tránsito: locales, VMO, simulados y helicópteros
 
 - **Vuelos locales:** identificar circuito, intención, duración, punto de notificación y conflicto previsible antes de mezclarlos con IFR/VFR en llegada o salida.
-- **VMO:** la condición y prioridad dependen de la coordinación COA; no se presumen por matrícula. Releer [[Resumen día 3]] y la CAO DCA–COA.
+- **VMO:** la condición y prioridad dependen de la coordinación COA; no se presumen por matrícula. Releer [Resumen día 3](Resumen%20d%C3%ADa%203.md) y la CAO DCA–COA.
 - **Simulados:** confirmar que la actividad y el área están coordinadas; tratar toda afectación de pista, ATZ o secuencia como un riesgo operacional real.
 - **Helicópteros:** distinguir rodaje de superficie, rodaje aéreo y vuelo estacionario; considerar rotor wash, estela, visibilidad, vehículos/personas y rutas/circuitos locales. No extrapolar procedimientos de SUMU u otro aeródromo a SULS.
 - **Performance y circuito:** una misma separación de tiempo o distancia puede no servir para aeronaves con aceleración, velocidad de aproximación o trepada distintas. Anticipar el conflicto y coordinar antes de que esté en final o en carrera de despegue.
@@ -67,4 +67,4 @@ Un reporte útil contiene intensidad, posición, nivel/altitud, hora, tipo de ae
 
 - MADE SULS v2.0, especialmente §§5.1–5.7 y 6–8; MATS y Doc. 4444 capítulo 12.
 - AIP Uruguay AD 2.5 SULS, ENR 4 y cartas vigentes; CAO DCA–COA y CAO meteorológica.
-- [[Resumen día 2]], [[Resumen día 3]] y [[Lecturas día 5 — Emergencias y contingencias]].
+- [Resumen día 2](Resumen%20d%C3%ADa%202.md), [Resumen día 3](Resumen%20d%C3%ADa%203.md) y [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md).

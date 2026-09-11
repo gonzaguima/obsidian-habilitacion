@@ -5,6 +5,6 @@ aprender a fondo las cartas, puntos, distancias, altitudes, frustradas, etc
 
 - Se dio todo lo programado para la jornada 3.
 - 4 h de práctica como Ejecutivo, controlando varias aproximaciones VOR y RNP para distintas pistas.
-- Queda leer la carta con COA; ya está resumida en [[Resumen día 3]].
+- Queda leer la carta con COA; ya está resumida en [Resumen día 3](Resumen%20d%C3%ADa%203.md).
 - El plan de emergencia se mantiene como tarea para día 4, según la asignación previa.
 

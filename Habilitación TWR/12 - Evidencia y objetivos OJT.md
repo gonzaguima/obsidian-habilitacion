@@ -33,4 +33,4 @@ Las horas muestran exposición; la evidencia muestra progreso. Registrar sólo h
 3. ¿Qué fuente, tarjeta o escenario hace falta repasar?
 4. Elegir **un** objetivo observable para las próximas tres guardias.
 
-Enlazar cada corrección a [[10 - Dudas operacionales abiertas]], [[11 - Tarjetas de decisión operativa]] o al bloque correspondiente del [[09 - Mapa de repaso operativo]].
+Enlazar cada corrección a [10 - Dudas operacionales abiertas](10%20-%20Dudas%20operacionales%20abiertas.md), [11 - Tarjetas de decisión operativa](11%20-%20Tarjetas%20de%20decisi%C3%B3n%20operativa.md) o al bloque correspondiente del [09 - Mapa de repaso operativo](09%20-%20Mapa%20de%20repaso%20operativo.md).

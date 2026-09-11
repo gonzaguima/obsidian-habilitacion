@@ -6,8 +6,8 @@
 ## Para ubicarse rápido
 
 - **Lo realizado:** repaso del Doc. 4444 capítulo 7 y MADE SULS capítulos 4 y 5; mapa ciego; tránsito y circuitos; carta ADIZ; práctica como Planificador y Ejecutivo.
-- **Repaso normativo desarrollado:** [[#MADE SULS — posiciones y responsabilidades]], [[#MADE SULS — procedimientos operacionales]] y [[#Doc. 4444 — control de aeródromo]].
-- **Aplicación práctica:** [[#Mapa ciego, tránsito y circuitos]], [[#Práctica en posición]] y [[#ADIZ — Zona de Identificación de Defensa Aérea]].
+- **Repaso normativo desarrollado:** [MADE SULS — posiciones y responsabilidades](#made-suls-posiciones-y-responsabilidades), [MADE SULS — procedimientos operacionales](#made-suls-procedimientos-operacionales) y [Doc. 4444 — control de aeródromo](#doc-4444-control-de-aer%C3%B3dromo).
+- **Aplicación práctica:** [Mapa ciego, tránsito y circuitos](#mapa-ciego-tr%C3%A1nsito-y-circuitos), [Práctica en posición](#pr%C3%A1ctica-en-posici%C3%B3n) y [ADIZ — Zona de Identificación de Defensa Aérea](#adiz-zona-de-identificaci%C3%B3n-de-defensa-a%C3%A9rea).
 - **Todo el repaso de MADE 4 y 5 y Doc. 4444 capítulo 7 está integrado en esta nota.**
 
 ## Apuntes originales de la jornada

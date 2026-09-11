@@ -6,7 +6,7 @@ tags:
 
 # Plan de estudio
 
-Volver a [[00 - Inicio]].
+Volver a [00 - Inicio](00%20-%20Inicio.md).
 
 ## Principio de trabajo
 
@@ -31,7 +31,7 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 - [x] Identificar puestos y distribución de responsabilidades.
 - [x] Enumerar fuentes que deben revisarse al asumir posición.
 - [x] Reconocer equipos CNS, SDC, SDD y medios de reserva.
-- [x] Preparar [[Plantillas/Jornada OJT - Plantilla]].
+- [x] Preparar [Plantillas/Jornada OJT - Plantilla](Plantillas/Jornada%20OJT%20-%20Plantilla.md).
 - [x] Practicar el llenado básico de fajas: pista, horas reales, WX, solicitudes e instrucciones de salida.
 - [x] Revisar fraseología local destinada a evitar ambigüedades.
 
@@ -67,7 +67,7 @@ SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre
 - [x] Reconocer aeródromos y modelos de aeronave habituales.
 
 - [x] Trabajar POI APP–TWR, GRF/CAISA y CAO meteorológica.
-- [x] Leer CAO con COA — completada en el día 4; resumen en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]].
+- [x] Leer CAO con COA — completada en el día 4; resumen en [Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4](Resumen%20d%C3%ADa%204.md#3-cao-con-coa-lectura-pendiente-que-se-integra-al-d%C3%ADa-4).
 
 ### Día 4 — Meteorología y operación
 
@@ -91,7 +91,7 @@ SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre
 
 ### Día 6 — Competencias
 
-- [ ] Leer [[04 - Competencias evaluadas]].
+- [ ] Leer [04 - Competencias evaluadas](04%20-%20Competencias%20evaluadas.md).
 - [ ] Anotar un comportamiento observable para cada competencia.
 - [ ] Identificar dos fortalezas y dos riesgos personales.
 - [ ] Practicar verbalización anticipada de conflictos y amenazas.
@@ -103,7 +103,7 @@ SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre
 - [ ] Simular una secuencia desde puesta en marcha hasta salida.
 - [ ] Simular una llegada, aterrizaje y liberación de pista.
 - [ ] Agregar meteorología adversa o una falla de equipo.
-- [ ] Contestar [[Repaso/Preguntas de repaso]] sin mirar apuntes.
+- [ ] Contestar [Repaso/Preguntas de repaso](Repaso/Preguntas%20de%20repaso.md) sin mirar apuntes.
 - [ ] Marcar dudas para el primer briefing con el OJTI.
 
 ## Práctica acumulada registrada

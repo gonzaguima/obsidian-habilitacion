@@ -20,7 +20,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 5. Fajas, FPL, horas y acciones pendientes.
 
 **Comprobación:** repetir al saliente las limitaciones o prioridades que cambian la operación.  
-**Referencia:** [[Resumen día 1]], [[Resumen día 2]].
+**Referencia:** [Resumen día 1](Resumen%20d%C3%ADa%201.md), [Resumen día 2](Resumen%20d%C3%ADa%202.md).
 
 ## 2. Llegada o salida con conflicto
 
@@ -33,7 +33,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 5. ¿Cómo vigilo que el resultado fue el previsto?
 
 **Comprobación:** no emitir autorización crítica hasta que pista, trayectoria y coordinación estén confirmadas.  
-**Referencia:** [[Resumen día 2]], [[Resumen día 3]].
+**Referencia:** [Resumen día 2](Resumen%20d%C3%ADa%202.md), [Resumen día 3](Resumen%20d%C3%ADa%203.md).
 
 ## 3. Cambio meteorológico o de pista
 
@@ -46,7 +46,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 5. Vigilar la transición y registrar la novedad relevante.
 
 **Comprobación:** una lluvia prevista o un TAF no prueba por sí solo el estado actual de pista.  
-**Referencia:** [[Resumen día 4]], [[Resumen día 3]].
+**Referencia:** [Resumen día 4](Resumen%20d%C3%ADa%204.md), [Resumen día 3](Resumen%20d%C3%ADa%203.md).
 
 ## 4. Coordinación con otra dependencia
 
@@ -58,7 +58,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 4. Transmitir restricciones, tránsito esencial y condición de terminación.
 5. Anotar/confirmar el resultado y avisar cualquier cambio.
 
-**Referencia:** [[Resumen día 3]], [[Resumen pendientes — normas y operación TWR]].
+**Referencia:** [Resumen día 3](Resumen%20d%C3%ADa%203.md), [Resumen pendientes — normas y operación TWR](Resumen%20pendientes%20%E2%80%94%20normas%20y%20operaci%C3%B3n%20TWR.md).
 
 ## 5. Emergencia o falla CNS
 
@@ -70,4 +70,4 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 4. Usar sólo el respaldo previsto, limitar capacidad o no aceptar tránsito si corresponde.
 5. Registrar, informar al relevo y recuperar el servicio sólo tras habilitación técnica/formal.
 
-**Referencia:** [[Lecturas día 5 — Emergencias y contingencias]], [[Resumen día 4]].
+**Referencia:** [Lecturas día 5 — Emergencias y contingencias](Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md), [Resumen día 4](Resumen%20d%C3%ADa%204.md).

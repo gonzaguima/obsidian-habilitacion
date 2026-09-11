@@ -11,7 +11,7 @@ meta_horas: 360
 
 # Estrategia de tres meses
 
-Volver a [[00 - Inicio]].
+Volver a [00 - Inicio](00%20-%20Inicio.md).
 
 ## Datos del proceso
 
@@ -35,7 +35,7 @@ Entrar con **un objetivo observable**, por ejemplo:
 
 > Hoy quiero anticipar las coordinaciones necesarias antes de que aumente la carga de trabajo.
 
-Al finalizar, registrar en [[Plantillas/Jornada OJT - Plantilla]]:
+Al finalizar, registrar en [Plantillas/Jornada OJT - Plantilla](Plantillas/Jornada%20OJT%20-%20Plantilla.md):
 
 - una situación relevante;
 - una corrección del OJTI;
@@ -73,7 +73,7 @@ El propósito es llegar orientado, no memorizar todo el material.
 - [ ] Identificar equipos principales, reserva y consecuencias de sus fallas.
 - [ ] Repasar meteorología operacional básica.
 - [ ] Reconocer la estructura de cartas de acuerdo y planes de emergencia.
-- [ ] Completar el diagnóstico de [[01 - Plan de estudio]].
+- [ ] Completar el diagnóstico de [01 - Plan de estudio](01%20-%20Plan%20de%20estudio.md).
 - [ ] Llevar una lista breve de dudas para el primer OJTI.
 
 ## Fase 1 — Guardias 1 a 4: orientación

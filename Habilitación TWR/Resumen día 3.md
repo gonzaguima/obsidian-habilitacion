@@ -6,9 +6,9 @@
 
 ## Para ubicarse rápido
 
-- **Base APP–TWR, GRF/CAISA, METAR y cartas:** consolidada en [[Resumen día 1]].
+- **Base APP–TWR, GRF/CAISA, METAR y cartas:** consolidada en [Resumen día 1](Resumen%20d%C3%ADa%201.md).
 - **CAO meteo:** funciones de EMA/OMA/OVM, cizalladura, discrepancias de nubes/visibilidad y contingencias.
-- **CAO COA:** consolidada en [[Resumen día 4]].
+- **CAO COA:** consolidada en [Resumen día 4](Resumen%20d%C3%ADa%204.md).
 - **Complemento de repaso:** aeródromos y modelos de aeronave, solicitado al terminar el día 2.
 
 ## Apuntes originales y alcance de la jornada
@@ -39,7 +39,7 @@ El plan guía ubica en el día 3 cartas de acuerdo, procedimientos instrumentale
 
 ## Contenidos retomados de la jornada 1
 
-Los procedimientos APP–TWR, GRF/CAISA, METAR y cartas de aproximación quedaron consolidados en [[Resumen día 1]]. En esta jornada se aplicaron y profundizaron junto con los acuerdos meteorológico y COA, sin duplicar aquí su desarrollo de estudio.
+Los procedimientos APP–TWR, GRF/CAISA, METAR y cartas de aproximación quedaron consolidados en [Resumen día 1](Resumen%20d%C3%ADa%201.md). En esta jornada se aplicaron y profundizaron junto con los acuerdos meteorológico y COA, sin duplicar aquí su desarrollo de estudio.
 
 ## 1. CAO meteorológica — DCA / ATS / INUMET
 
@@ -154,7 +154,7 @@ La CAO general de 2024 fija un plazo de dos años; la copia disponible no acredi
 
 ## 2. Seguimiento de la CAO con COA
 
-La lectura fue asignada durante el día 3 y se completó en el día 4. Su desarrollo íntegro está consolidado en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]], para evitar duplicarlo entre jornadas.
+La lectura fue asignada durante el día 3 y se completó en el día 4. Su desarrollo íntegro está consolidado en [Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4](Resumen%20d%C3%ADa%204.md#3-cao-con-coa-lectura-pendiente-que-se-integra-al-d%C3%ADa-4), para evitar duplicarlo entre jornadas.
 
 ## 3. Aeródromos y modelos de aeronave — repaso complementario
 
