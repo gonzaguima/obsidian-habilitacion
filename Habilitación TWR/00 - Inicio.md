@@ -20,6 +20,11 @@ status: activo
 - [[05 - Método de estudio y registro]]
 - [[06 - Fuentes y documentos a reunir]]
 - [[08 - Fraseología TWR español-inglés]]
+- [[09 - Mapa de repaso operativo]]
+- [[10 - Dudas operacionales abiertas]]
+- [[11 - Tarjetas de decisión operativa]]
+- [[12 - Evidencia y objetivos OJT]]
+- [[13 - Repaso teórico progresivo]]
 - [[Repaso/Preguntas de repaso]]
 - [[Plantillas/Jornada OJT - Plantilla]]
 
