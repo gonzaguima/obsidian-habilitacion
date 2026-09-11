@@ -19,13 +19,13 @@ Reúne el plan de estudio, apuntes por jornada, repasos operativos, ejercicios d
 
 | Área | Archivos principales |
 | --- | --- |
-| Navegación y planificación | `Habilitación TWR/00 - Inicio.md`, `01 - Plan de estudio.md`, `02 - Programa teórico.md` |
-| Seguimiento OJT | `Habilitación TWR/03 - Primeros cuatro días OJT.md`, `Resumen día 1.md`, `Resumen día 2.md`, `Resumen día 3.md` |
-| Operación y práctica | `Habilitación TWR/08 - Fraseología TWR español-inglés.md`, `09 - Mapa de repaso operativo.md`, `11 - Tarjetas de decisión operativa.md` |
-| Mejora continua | `Habilitación TWR/10 - Dudas operacionales abiertas.md`, `12 - Evidencia y objetivos OJT.md`, `13 - Repaso teórico progresivo.md` |
-| Aproximaciones | `Habilitación TWR/14 - Aproximaciones RNP Z y VOR Z SULS.md` |
-| Emergencias | `Habilitación TWR/Lecturas día 5 — Emergencias y contingencias.md` |
-| Referencias | `Habilitación TWR/DOCUMENTOS/` y `Habilitación TWR/DOCUMENTOS DE CONSULTA/` |
+| Navegación y planificación | [00 - Inicio](Habilitaci%C3%B3n%20TWR/00%20-%20Inicio.md), [01 - Plan de estudio](Habilitaci%C3%B3n%20TWR/01%20-%20Plan%20de%20estudio.md), [02 - Programa teórico](Habilitaci%C3%B3n%20TWR/02%20-%20Programa%20te%C3%B3rico.md) |
+| Seguimiento OJT | [03 - Primeros cuatro días OJT](Habilitaci%C3%B3n%20TWR/03%20-%20Primeros%20cuatro%20d%C3%ADas%20OJT.md), [Resumen día 1](Habilitaci%C3%B3n%20TWR/Resumen%20d%C3%ADa%201.md), [Resumen día 2](Habilitaci%C3%B3n%20TWR/Resumen%20d%C3%ADa%202.md), [Resumen día 3](Habilitaci%C3%B3n%20TWR/Resumen%20d%C3%ADa%203.md) |
+| Operación y práctica | [08 - Fraseología TWR español-inglés](Habilitaci%C3%B3n%20TWR/08%20-%20Fraseolog%C3%ADa%20TWR%20espa%C3%B1ol-ingl%C3%A9s.md), [09 - Mapa de repaso operativo](Habilitaci%C3%B3n%20TWR/09%20-%20Mapa%20de%20repaso%20operativo.md), [11 - Tarjetas de decisión operativa](Habilitaci%C3%B3n%20TWR/11%20-%20Tarjetas%20de%20decisi%C3%B3n%20operativa.md) |
+| Mejora continua | [10 - Dudas operacionales abiertas](Habilitaci%C3%B3n%20TWR/10%20-%20Dudas%20operacionales%20abiertas.md), [12 - Evidencia y objetivos OJT](Habilitaci%C3%B3n%20TWR/12%20-%20Evidencia%20y%20objetivos%20OJT.md), [13 - Repaso teórico progresivo](Habilitaci%C3%B3n%20TWR/13%20-%20Repaso%20te%C3%B3rico%20progresivo.md) |
+| Aproximaciones | [14 - Aproximaciones RNP Z y VOR Z SULS](Habilitaci%C3%B3n%20TWR/14%20-%20Aproximaciones%20RNP%20Z%20y%20VOR%20Z%20SULS.md) |
+| Emergencias | [Lecturas día 5 — Emergencias y contingencias](Habilitaci%C3%B3n%20TWR/Lecturas%20d%C3%ADa%205%20%E2%80%94%20Emergencias%20y%20contingencias.md) |
+| Referencias | [Documentos](Habilitaci%C3%B3n%20TWR/DOCUMENTOS/), [documentos de consulta](Habilitaci%C3%B3n%20TWR/DOCUMENTOS%20DE%20CONSULTA/) |
 
 ## Forma de uso
 
@@ -36,7 +36,7 @@ Reúne el plan de estudio, apuntes por jornada, repasos operativos, ejercicios d
 
 ## Documentación de referencia
 
-Las carpetas `Habilitación TWR/DOCUMENTOS/` y `Habilitación TWR/DOCUMENTOS DE CONSULTA/` contienen manuales, AIP, procedimientos, cartas de acuerdo, formularios, estadísticas y otros materiales de consulta. Pueden quedar desactualizados: verificar siempre su vigencia antes de usarlos en la operación o en una evaluación.
+Las carpetas [DOCUMENTOS](Habilitaci%C3%B3n%20TWR/DOCUMENTOS/) y [DOCUMENTOS DE CONSULTA](Habilitaci%C3%B3n%20TWR/DOCUMENTOS%20DE%20CONSULTA/) contienen manuales, AIP, procedimientos, cartas de acuerdo, formularios, estadísticas y otros materiales de consulta. Pueden quedar desactualizados: verificar siempre su vigencia antes de usarlos en la operación o en una evaluación.
 
 ## Alcance y confidencialidad
 
