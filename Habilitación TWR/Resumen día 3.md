@@ -1,16 +1,14 @@
 # Instrucción OJT TWR SULS — Día 3
 
-> Jornada 3 completada según confirmación del entrenando del 08/09/2026: **4 h como Ejecutivo**, con varias aproximaciones VOR y RNP a distintas pistas. **Lectura pendiente: CAO con COA**, cuyo resumen está incluido aquí.
+> Jornada 3 completada según confirmación del entrenando del 08/09/2026: **4 h como Ejecutivo**, con varias aproximaciones VOR y RNP a distintas pistas. La lectura de CAO con COA se completó en el día 4 y está resumida allí.
 
-> Resumen integrado del día 3: reúne las lecturas que quedaron asignadas al terminar el día 2 y las incorporaciones de `Notas dia 3.md`. Incluye APP–TWR, GRF/CAISA, METAR, cartas de aproximación, CAO meteorológica y CAO con COA, con repaso activo en esta misma nota.
+> Resumen integrado del día 3: reúne las incorporaciones de `Notas dia 3.md`, la CAO meteorológica, la familiarización con aeródromos/modelos y la práctica de la jornada. Los contenidos APP–TWR, GRF/CAISA, METAR y cartas se consolidan en el día 1; COA, en el día 4.
 
 ## Para ubicarse rápido
 
-- **APP–TWR:** secuencias, encaminamientos, coordinación, transferencias y fallas del sistema.
-- **GRF / CAISA:** quién evalúa la pista, cómo leer el RCR y qué transmite TWR.
-- **METAR y cartas:** decodificar la meteorología y relacionarla con pista, aproximación y frustrada.
+- **Base APP–TWR, GRF/CAISA, METAR y cartas:** consolidada en [[Resumen día 1]].
 - **CAO meteo:** funciones de EMA/OMA/OVM, cizalladura, discrepancias de nubes/visibilidad y contingencias.
-- **CAO COA:** vuelos militares y policiales, permisos de aeronaves de Estado extranjeras, interceptación y uso del espacio aéreo.
+- **CAO COA:** consolidada en [[Resumen día 4]].
 - **Complemento de repaso:** aeródromos y modelos de aeronave, solicitado al terminar el día 2.
 
 ## Apuntes originales y alcance de la jornada
@@ -21,11 +19,11 @@ Las notas del día 3 dicen:
 >
 > leer carta con COA
 
-“Lo ya establecido” se relaciona con las tareas anotadas al terminar el día 2: lectura de APP–TWR, procedimiento GRF SULS, acuerdo con CAISA sobre GRF, repaso de METAR, cartas de aproximación y reconocimiento de aeródromos/modelos habituales. Todo ese contenido queda desarrollado aquí, junto con las dos cartas nuevas.
+“Lo ya establecido” se relaciona con las tareas anotadas al terminar el día 2: lectura de APP–TWR, procedimiento GRF SULS, acuerdo con CAISA sobre GRF, repaso de METAR, cartas de aproximación y reconocimiento de aeródromos/modelos habituales. El bloque base se consolidó en el día 1; esta nota conserva los aportes propios del día 3.
 
 ### Confirmación posterior de lo trabajado
 
-El 08/09/2026 el entrenando confirmó que **se dio todo lo programado para el día 3**, con la excepción de la **lectura de la CAO con COA**, que aún queda por hacer. Se consideran trabajados el bloque APP–TWR, GRF/CAISA, METAR y CAO meteorológica, cartas, contingencias previstas y familiarización con aeródromos/modelos de esa jornada.
+El 08/09/2026 el entrenando confirmó que **se dio todo lo programado para el día 3**, con la excepción inicial de la **lectura de la CAO con COA**. Esta lectura se completó en el día 4. Se consideran trabajados el bloque APP–TWR, GRF/CAISA, METAR y CAO meteorológica, cartas, contingencias previstas y familiarización con aeródromos/modelos de esa jornada.
 
 La práctica fue de **4 horas como Ejecutivo**, controlando **varias aproximaciones VOR y RNP a distintas pistas**. No se especificaron cantidad exacta, designadores de pista, tránsitos ni correcciones, por lo que no se atribuyen operaciones concretas adicionales ni un nivel de autonomía.
 
@@ -43,7 +41,7 @@ El plan guía ubica en el día 3 cartas de acuerdo, procedimientos instrumentale
 
 Los procedimientos APP–TWR, GRF/CAISA, METAR y cartas de aproximación quedaron consolidados en [[Resumen día 1]]. En esta jornada se aplicaron y profundizaron junto con los acuerdos meteorológico y COA, sin duplicar aquí su desarrollo de estudio.
 
-## 5. CAO meteorológica — DCA / ATS / INUMET
+## 1. CAO meteorológica — DCA / ATS / INUMET
 
 Fuentes: **CAO general, revisión 01, julio de 2024**, §§2–6, y **Anexo II SULS**, efectivo desde el **01/11/2025**, especialmente §§2–9 (páginas 2–12 del PDF). El anexo local es el que desarrolla equipos, comunicaciones y circuitos específicos de SULS.
 
@@ -154,99 +152,11 @@ La CAO general de 2024 fija un plazo de dos años; la copia disponible no acredi
 
 ---
 
-## 6. CAO con COA — coordinación civil–militar
+## 2. Seguimiento de la CAO con COA
 
-> **Lectura pendiente**, confirmada el 08/09/2026. Este apartado ya está preparado para estudiarlo; su inclusión no significa que la carta haya sido leída.
+La lectura fue asignada durante el día 3 y se completó en el día 4. Su desarrollo íntegro está consolidado en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]], para evitar duplicarlo entre jornadas.
 
-Fuente: **Carta DCA–COA**, firmada el 27/09/2023. La **Circular Interna 018/2023**, incluida al comienzo del PDF, establece entrada en vigor el **20/11/2023** y deja sin aplicación el plazo original de su §9.2.
-
-**COA** es el **Centro de Operaciones Aéreas de la Fuerza Aérea Uruguaya**. La carta organiza intercambio de información, responsabilidades y coordinación para compatibilizar seguridad nacional, seguridad operacional y uso del espacio aéreo.
-
-### Información que se intercambia
-
-ATS comparte información de vigilancia y FPL de forma continua y automática en función de su disponibilidad; los mensajes FPL recibidos por AMHS se retransmiten al COA. Los reportes de posición y otros datos pueden solicitarse entre dependencias. El intercambio de vigilancia desde COA contempla las limitaciones de seguridad nacional y la coordinación de sus interrupciones.
-
-ATS debe informar al COA ante:
-
-- una aeronave que incumple instrucciones ATS sin causa justificada;
-- una aeronave no identificada en la FIR Montevideo;
-- información de una aeronave en vuelo dentro de la FIR que COA requiera.
-
-### Tipos de vuelo
-
-| Tipo | Qué lo distingue |
-|---|---|
-| **Militar sujeto a normas** | Opera conforme a la reglamentación normal. Ser militar no implica automáticamente una excepción. |
-| **VMO** | Vuelo militar operativo cuya misión exige apartarse total o parcialmente de las normas. |
-| **EVMO** | Entrenamiento de vuelo militar operativo; puede requerir apartamientos, pero mantiene la obligación de presentar FPL. |
-| **VMO/D especial** | Vuelo militar con dron, indicativo **HORUS**. |
-| **VPA** | Vuelo policial administrativo, sin apartamiento especial de las normas generales. |
-| **VPO** | Vuelo policial operativo que necesita apartarse de normas por sus funciones. |
-
-COA determina los VMO/EVMO y comunica el tipo de operación y las restricciones asociadas. En la **casilla 18 del FPL** se especifica VMO/EVMO y su número; VPO/VPA también se identifican allí. Las coordinaciones de vuelos policiales se realizan a través de COA.
-
-### VMO: control, prioridad y excepciones de FPL
-
-- Si la aeronave militar se aparta de las normas y de las instrucciones ATC, **COA y el piloto al mando** son responsables de esa operación conforme a §4.1. Puede estar controlada por ATC o COA, previa coordinación.
-- La carta otorga prioridad al **VMO con preaviso de COA**; no debe inferirse esa condición solamente por la matrícula o el tipo militar.
-- La coordinación sigue siendo necesaria para proteger el resto del tránsito y conocer espacio, trayectorias y restricciones.
-
-La carta identifica estos VMO exceptuados de presentar FPL:
-
-| Identificación | Operación |
-|---|---|
-| **MARTE** | VMO identificado con esa denominación. |
-| **TIGRE** | Interceptación. |
-| **SANITARIO** | Vuelo sanitario / MEDEVAC. |
-| **RESCATE** | Búsqueda y salvamento / SAR. |
-
-Se coordinan entre ATS y COA; **RESCATE** también puede ser coordinado por **CCR Carrasco**. Son excepciones concretas de la carta, no una dispensa general de FPL para toda aeronave militar o todo vuelo que se anuncie sanitario.
-
-Para **HORUS**, COA coordina con la dependencia ATS afectada. Si comunica una zona o volumen de reserva prioritario, este prevalece sobre el tránsito **excepto aeronaves en emergencia y vuelos humanitarios**. En los otros casos, el vuelo queda sujeto a autorizaciones ATC mediante los medios acordados.
-
-### PSA / PSV — aeronaves de Estado extranjeras
-
-- **PSA:** permiso de aterrizaje; **PSV:** permiso de sobrevuelo.
-- **COA** es la dependencia que los otorga o revoca para aeronaves de Estado extranjeras.
-- Deben figurar en **casilla 18 del FPL** y ATS los verifica con la información suministrada por COA.
-- Si el FPL no los incluye, ATS consulta a la dependencia transferidora y/o a la aeronave; si la información no se obtiene, **notifica inmediatamente a COA**.
-- COA autoriza o rechaza cambios del permiso, como un cambio de ruta, con las coordinaciones correspondientes.
-
-Un permiso de Estado y una autorización ATC cumplen funciones distintas: verificar el PSA/PSV no sustituye coordinar y autorizar el tránsito. La carta establece que una aeronave de Estado extranjera no puede ingresar a la FIR Montevideo sin ese permiso.
-
-### Interceptación y relación con la ADIZ
-
-Las maniobras de interceptación quedan bajo **control de COA** y deben coordinarse con ATS cuanto antes. COA informa la zona y coordina el área para que ATS pueda proteger las operaciones a las que presta servicio.
-
-El Anexo 2 divide las áreas de coordinación en:
-
-- **Norte:** al norte de la aerovía G680.
-- **Oeste:** al oeste de P526, limitado al norte por G680.
-- **Este:** al este de P526, limitado al norte por G680.
-
-Estos son sectores definidos en la carta aportada para coordinar interceptaciones. **No son los límites de la ADIZ**, ni equivalen a una nueva clase de espacio aéreo. Las coordinaciones tácticas complementan esos sectores según la evolución de la operación.
-
-La relación con el día 2 es que una aeronave no identificada o un incumplimiento puede requerir aviso a COA; TWR mantiene sus funciones ATS y la coordinación necesaria, mientras COA conduce la interceptación.
-
-### ZOM, niveles y medios de coordinación
-
-La activación de **ZOM** se coordina entre ATS y COA, salvo que exista una carta específica para esa zona, como el ejemplo de ZOM 5. Las áreas restringidas también se activan mediante la coordinación prevista.
-
-| Nivel | Qué resuelve |
-|---|---|
-| **Táctico — controladores** | Maniobras, tránsitos y afectación del espacio en tiempo real. |
-| **Operativo — supervisión** | Asignación diaria de espacios y conducción operativa. |
-| **Estratégico — autoridades** | Cambios planificados, reasignaciones, procedimientos y prioridades. |
-
-Orden de medios: **línea caliente (HL) → línea directa (DL) → telefonía convencional/celular**. Las variaciones excepcionales del acuerdo requieren la coordinación y el nivel de responsabilidad previstos; no son una modificación unilateral del controlador.
-
-### Aplicación de estudio en TWR SULS
-
-Ante una actividad militar o policial que pueda afectar SULS, reconstruir: **identificación y condición del vuelo → área/altitud/tiempo → dependencia que controla → tránsito afectado → coordinación con APP/COA → condiciones de terminación y devolución del espacio**. Esta secuencia es una guía de repaso; no agrega una fraseología ni una autorización nueva al acuerdo.
-
----
-
-## 7. Aeródromos y modelos de aeronave — repaso complementario
+## 3. Aeródromos y modelos de aeronave — repaso complementario
 
 Este tema estaba anotado para preparar el día 3. No se proporcionó una lista de frecuencias estadísticas de movimientos; los siguientes son **referencias de familiarización**, no un ranking de los más habituales de SULS.
 
@@ -283,7 +193,7 @@ El objetivo es anticipar **velocidad de aproximación, alcance al precedente, as
 
 ---
 
-## 8. Integración de las lecturas
+## 4. Integración de las lecturas
 
 ### Llegada IFR con meteorología cambiante
 
@@ -306,7 +216,7 @@ Identificar qué función se perdió: una pantalla radar de TWR, todo el radar, 
 
 Recibir y confirmar condición del vuelo y espacio requerido; coordinar con las dependencias afectadas; identificar quién conduce la operación y qué restricciones afectan las llegadas, salidas o circuitos. Si además hay meteorología adversa o una frustrada probable, incorporarla a la coordinación antes de comprometer la secuencia.
 
-## 9. Repaso activo del día 3
+## 5. Repaso activo del día 3
 
 1. ¿Quién secuencia las llegadas IFR y quién establece la pista en uso?
 2. ¿Qué condiciones permiten reducir de 10 a 7 NM el espaciamiento del POI?
@@ -361,7 +271,6 @@ Sin mirar, explicar una llegada IFR a SULS con pista mojada, una aeronave que re
 ## Fuentes y pendientes concretos
 
 - `Notas dia 3.md` y `Notas día 2.md`, del vault **Habilitación TWR**: alcance de las lecturas. Las notas del día 3 incorporan la confirmación posterior del entrenando sobre contenidos y práctica.
-- `Resumen lecturas día 1 - APP-TWR, GRF, METAR y cartas SULS.md`, copia de Work actualizada el 06/09/2026: base integrada de APP–TWR, GRF, METAR y cuadros de cartas.
 - **ATS-PATS-007 APP-TWR SULS v2.0**, encabezado ATS-PATS-07, 20/11/2025: §§2–7, coordinación y transferencias.
 - **ATS-PATS-02 Procedimiento GRF SULS v1.0** y **CAO TWR SULS–CAISA, Anexo 10**: superficie de pista.
 - **OACI Anexo 3, edición 2021**, capítulo 4 y apéndice 3; **LAR 91, diciembre 2023**, §§91.160 y 91.300; **MATS v2.0**, §7.13: base del repaso meteo/VFR.

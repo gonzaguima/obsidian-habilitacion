@@ -33,7 +33,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 5. ¿Cómo vigilo que el resultado fue el previsto?
 
 **Comprobación:** no emitir autorización crítica hasta que pista, trayectoria y coordinación estén confirmadas.  
-**Referencia:** [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]], [[Resumen día 3]].
+**Referencia:** [[Resumen día 2]], [[Resumen día 3]].
 
 ## 3. Cambio meteorológico o de pista
 
@@ -46,7 +46,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 5. Vigilar la transición y registrar la novedad relevante.
 
 **Comprobación:** una lluvia prevista o un TAF no prueba por sí solo el estado actual de pista.  
-**Referencia:** [[Resumen lecturas día 4 - PEA, COA y meteorología]], [[Resumen día 3]].
+**Referencia:** [[Resumen día 4]], [[Resumen día 3]].
 
 ## 4. Coordinación con otra dependencia
 
@@ -70,4 +70,4 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 4. Usar sólo el respaldo previsto, limitar capacidad o no aceptar tránsito si corresponde.
 5. Registrar, informar al relevo y recuperar el servicio sólo tras habilitación técnica/formal.
 
-**Referencia:** [[Lecturas día 5 — Emergencias y contingencias]], [[Resumen lecturas día 4 - PEA, COA y meteorología]].
+**Referencia:** [[Lecturas día 5 — Emergencias y contingencias]], [[Resumen día 4]].

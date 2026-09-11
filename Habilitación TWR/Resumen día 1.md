@@ -8,7 +8,7 @@
 - **Lo dado en clase:** desde [[#Contenido que efectivamente se trató]].
 - **Repaso completo:** aeródromo, espacio aéreo, performance, fajas, fraseología y cartas de acuerdo en esta misma nota.
 - **Lectura indicada al terminar el día:** Doc. 4444 capítulo 7 y MADE SULS capítulos 4 y 5.
-- **Resumen de esas lecturas / contenido del día 2:** [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]].
+- **Resumen de esas lecturas / contenido del día 2:** [[Resumen día 2]].
 - **Planeamiento actualizado:** [[Habilitación TWR/01 - Plan de estudio]] y [[Habilitación TWR/02 - Programa teórico]].
 
 ## Apuntes originales de la jornada
@@ -28,7 +28,7 @@ Estos son los temas anotados durante la instrucción, ya ordenados pero sin sust
 - [ ] Leer/repasar **Doc. 4444, capítulo 7**: procedimientos del servicio de control de aeródromo.
 - [ ] Leer/repasar **MADE SULS, capítulo 4**: posiciones y atribuciones operacionales.
 - [ ] Leer/repasar **MADE SULS, capítulo 5**: procedimientos operacionales.
-- [ ] Hacer el repaso activo con preguntas y respuestas de [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7#Repaso activo guiado]].
+- [ ] Hacer el repaso activo con preguntas y respuestas de [[Resumen día 2#Repaso activo del día 2]].
 
 La lista queda aquí porque fue la tarea asignada al cerrar el día 1. El contenido desarrollado se mantiene separado para que funcione como inicio y base acumulativa del **día 2**.
 

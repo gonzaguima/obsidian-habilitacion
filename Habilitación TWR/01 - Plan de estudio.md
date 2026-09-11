@@ -67,7 +67,7 @@ SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre
 - [x] Reconocer aeródromos y modelos de aeronave habituales.
 
 - [x] Trabajar POI APP–TWR, GRF/CAISA y CAO meteorológica.
-- [x] Leer CAO con COA — completada en las lecturas del día 4; resumen en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
+- [x] Leer CAO con COA — completada en el día 4; resumen en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]].
 
 ### Día 4 — Meteorología y operación
 

@@ -25,7 +25,7 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 **Pregunta guía:** ¿dónde está el tránsito, qué área/pista está protegida y qué puede afectar el movimiento seguro?
 
 - [[Resumen día 1]] — disposición de SULS, puntos, espacio y referencias.
-- [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]] — funciones y procedimientos de torre.
+- [[Resumen día 2]] — funciones y procedimientos de torre.
 - [[Resumen pendientes — puesto, fraseología y tránsito]] — obstáculos, ayudas visuales terrestres y fajas.
 - [[08 - Fraseología TWR español-inglés]] — rodaje, punto de espera, cruce y alineación.
 
@@ -33,7 +33,7 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 
 **Pregunta guía:** ¿qué ocurrirá después, qué autorización corresponde y cuándo debo vigilar o coordinar?
 
-- [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]] — control de aeródromo y secuencias base.
+- [[Resumen día 2]] — control de aeródromo y secuencias base.
 - [[Resumen día 2]] — información, salidas/llegadas y posiciones.
 - [[14 - Aproximaciones RNP Z y VOR Z SULS]] — puntos, mínimos y frustradas publicadas para las cuatro pistas.
 - [[08 - Fraseología TWR español-inglés]] — estructura de transmisiones y colaciones.
@@ -44,7 +44,6 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 **Pregunta guía:** ¿quién conserva el control, con quién coordino, por qué medio y antes de qué punto?
 
 - [[Resumen día 3]] — APP–TWR, GRF/CAISA, COA y transferencias.
-- [[Resumen lecturas día 1 - APP-TWR, GRF, METAR y cartas SULS]] — lectura dirigida de APP–TWR, cartas y contingencias asociadas.
 - [[Resumen pendientes — normas y operación TWR]] — CAO privadas, MADOR, LAR y circulares.
 - [[Resumen pendientes — puesto, fraseología y tránsito]] — VMO, simulados, helicópteros y circuitos según performance.
 
@@ -53,14 +52,14 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 **Pregunta guía:** ¿qué está observado, qué está pronosticado, qué operación puede cambiar y qué información debo transmitir?
 
 - [[Resumen día 3]] — METAR/SPECI, GRF, CAO meteorológica, cartas y cizalladura.
-- [[Resumen lecturas día 4 - PEA, COA y meteorología]] — QNH/QFE/QNE, TAF, SIGMET, turbulencia y engelamiento.
+- [[Resumen día 4]] — QNH/QFE/QNE, TAF, SIGMET, turbulencia y engelamiento.
 - [[Resumen pendientes — puesto, fraseología y tránsito]] — reporte y tratamiento de turbulencia/engelamiento.
 
 ## 6. Emergencias y situaciones no rutinarias
 
 **Pregunta guía:** ¿qué amenaza protejo primero, quién debe saberlo y cuándo se recupera la operación?
 
-- [[Resumen lecturas día 4 - PEA, COA y meteorología]] — PEA, alertas, SAR, interferencia ilícita y amenaza de bomba.
+- [[Resumen día 4]] — PEA, alertas, SAR, interferencia ilícita y amenaza de bomba.
 - [[Lecturas día 5 — Emergencias y contingencias]] — degradación CNS, falla de radio, energía, luces y escenarios integrados.
 - [[Resumen pendiente — competencias OJT]] — decisión, gestión de error, CRM y carga bajo presión.
 

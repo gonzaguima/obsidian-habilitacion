@@ -42,7 +42,7 @@ Resumen de pendientes: [[Resumen pendientes — normas y operación TWR]].
 
 - [x] Introducción a transferencias entre TWR y APP Carrasco.
 - [x] Completar POI entre TWR y APP Carrasco o ACC Montevideo. — día 3.
-- [x] Leer y repasar coordinación con COA — lectura completada en día 4; resumen disponible en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
+- [x] Leer y repasar coordinación con COA — lectura completada en día 4; resumen disponible en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]].
 - [x] Carta de acuerdo TWR SULS–CAISA.
 - [x] Procedimiento GRF SULS y coordinación CAISA — día 3.
 - [x] Carta de acuerdo meteorológica y Anexo II SULS — día 3.

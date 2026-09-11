@@ -105,7 +105,7 @@ Si la falla compromete la separación aplicable durante una emergencia, MADE SUL
 
 ## 6. Fuentes y lectura dirigida
 
-- [[Resumen lecturas día 4 - PEA, COA y meteorología#1. Plan de emergencia del aeródromo — SULS]] y su sección de fases ATS/SAR: repaso activo de alertas, notificación y cierre.
+- [[Resumen día 4#1. Plan de emergencia del aeródromo — SULS]] y su sección de fases ATS/SAR: repaso activo de alertas, notificación y cierre.
 - **MADE SULS v2.0**, §§5.6, 6.4–6.6, 7.1–7.3 y 8: estado CNS, emergencia, interferencia ilícita, amenaza de bomba, RA ACAS, radio, vigilancia y separación de emergencia.
 - **Plan de Contingencia ATS Uruguay v2.0**, §§3.1 y 4.1–4.8: fases de degradación, energía, frecuencias, SDC, AFTN y vigilancia. Leer siempre el procedimiento particular aplicable; no extrapolar una contingencia ACC/APP a TWR.
 - Procedimiento local de degradación/contingencias de TWR SULS y cartillas vigentes del puesto, si están disponibles durante el briefing. Confirmar con el OJTI qué respaldo se usa realmente y cómo se registra la falla.

@@ -5,9 +5,9 @@ tags:
   - ojt
 ---
 
-# Lecturas para el día 4 — PEA SULS, COA y meteorología aplicada
+# Instrucción OJT TWR SULS — Día 4
 
-> Preparación de la jornada 4. Integra **plan de emergencia SULS, alertas y notificación**, la **lectura pendiente de COA**, **QNH/QFE/QNE**, **TAF/SIGMET** y repaso de fenómenos y coordinaciones. **Lectura completada el 10/09/2026 según confirmación del entrenando.** No hay todavía notas de práctica ni correcciones del OJTI; esta confirmación no acredita aplicación en puesto.
+> Resumen integrado de la jornada 4: **plan de emergencia SULS, alertas y notificación**, la **lectura pendiente de COA**, **QNH/QFE/QNE**, **TAF/SIGMET** y repaso de fenómenos y coordinaciones. **Lecturas completadas el 10/09/2026 según confirmación del entrenando.** No hay todavía notas de práctica ni correcciones del OJTI; esta confirmación no acredita aplicación en puesto.
 
 ## Para ubicarse rápido
 

@@ -82,4 +82,4 @@ Las aproximaciones de entrenamiento son solicitudes de una aeronave, no ejercici
 - Doc. 4444, edición 2016 con enmienda de noviembre de 2025, capítulos 3, 6 y 15.
 - LAR 211, 2.ª edición, diciembre de 2023; LAR 91, 2.ª edición, diciembre de 2023.
 - ATS-MATS-003 MADOR v5.0; AIP Uruguay vigente y CAO/circulares aplicables.
-- [[Resumen día 3]], [[Resumen lecturas día 4 - PEA, COA y meteorología]] y [[Lecturas día 5 — Emergencias y contingencias]].
+- [[Resumen día 3]], [[Resumen día 4]] y [[Lecturas día 5 — Emergencias y contingencias]].

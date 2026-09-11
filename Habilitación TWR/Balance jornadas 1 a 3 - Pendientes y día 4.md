@@ -47,7 +47,7 @@ La nota 01 organiza una semana de **preparación de estudio**, mientras la nota 
 
 ### Lecturas cerradas desde la última actualización
 
-- [x] **CAO con COA**, ya resumida en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]], completada en el día 4.
+- [x] **CAO con COA**, resumida en [[Resumen día 4#3. CAO con COA — lectura pendiente que se integra al día 4]], completada en el día 4.
 - [x] **PEA SULS, alertas y cadena local de notificación**, completados en el día 4.
 
 ### Continuación del programa general
