@@ -25,6 +25,7 @@ status: activo
 - [[11 - Tarjetas de decisión operativa]]
 - [[12 - Evidencia y objetivos OJT]]
 - [[13 - Repaso teórico progresivo]]
+- [[14 - Aproximaciones RNP Z y VOR Z SULS]]
 - [[Repaso/Preguntas de repaso]]
 - [[Plantillas/Jornada OJT - Plantilla]]
 

@@ -35,6 +35,7 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 
 - [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]] — control de aeródromo y secuencias base.
 - [[Resumen día 2]] — información, salidas/llegadas y posiciones.
+- [[14 - Aproximaciones RNP Z y VOR Z SULS]] — puntos, mínimos y frustradas publicadas para las cuatro pistas.
 - [[08 - Fraseología TWR español-inglés]] — estructura de transmisiones y colaciones.
 - [[Resumen pendientes — normas y operación TWR]] — capacidad, separación próxima al aeródromo y aproximaciones de entrenamiento.
 
