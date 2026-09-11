@@ -33,7 +33,7 @@ Tarjetas para recuperación activa antes de una guardia o durante un debriefing.
 5. ¿Cómo vigilo que el resultado fue el previsto?
 
 **Comprobación:** no emitir autorización crítica hasta que pista, trayectoria y coordinación estén confirmadas.  
-**Referencia:** [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]], [[Resumen día 3]].
+**Referencia:** [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]], [[Resumen día 3]].
 
 ## 3. Cambio meteorológico o de pista
 

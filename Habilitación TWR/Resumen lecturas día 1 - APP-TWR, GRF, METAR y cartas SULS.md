@@ -1,6 +1,6 @@
-# Lecturas — APP–TWR, GRF, METAR y aproximaciones SULS
+# Día 1 — APP–TWR, GRF, METAR y aproximaciones SULS
 
-> Resumen de las lecturas anotadas al finalizar el día 2: procedimientos APP–TWR SULS, GRF y coordinación con CAISA, lectura de METAR y cartas de aproximación instrumental de SULS.
+> Resumen de las lecturas del día 1: procedimientos APP–TWR SULS, GRF y coordinación con CAISA, lectura de METAR y cartas de aproximación instrumental de SULS.
 > Es material de estudio. Para operar prevalecen la AIP, los NOTAM, el ATIS y los procedimientos vigentes.
 
 ## Para ubicarse rápido
@@ -449,4 +449,3 @@ Para cada aproximación conviene reconocer inmediatamente:
 - CAO TWR SULS–CAISA, Anexo 10, procedimiento local GRF.
 - AIP Uruguay, SULS AD 2.5, publicación consultada del 13/05/2026.
 - OACI Anexo 3 y material meteorológico disponible, para estructura y códigos METAR/SPECI.
-

@@ -25,7 +25,7 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 **Pregunta guía:** ¿dónde está el tránsito, qué área/pista está protegida y qué puede afectar el movimiento seguro?
 
 - [[Resumen día 1]] — disposición de SULS, puntos, espacio y referencias.
-- [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]] — funciones y procedimientos de torre.
+- [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]] — funciones y procedimientos de torre.
 - [[Resumen pendientes — puesto, fraseología y tránsito]] — obstáculos, ayudas visuales terrestres y fajas.
 - [[08 - Fraseología TWR español-inglés]] — rodaje, punto de espera, cruce y alineación.
 
@@ -33,7 +33,7 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 
 **Pregunta guía:** ¿qué ocurrirá después, qué autorización corresponde y cuándo debo vigilar o coordinar?
 
-- [[Resumen lecturas - MADE 4 y 5 - Doc 4444 Cap 7]] — control de aeródromo y secuencias base.
+- [[Resumen lecturas día 2 - MADE 4 y 5 - Doc 4444 Cap 7]] — control de aeródromo y secuencias base.
 - [[Resumen día 2]] — información, salidas/llegadas y posiciones.
 - [[14 - Aproximaciones RNP Z y VOR Z SULS]] — puntos, mínimos y frustradas publicadas para las cuatro pistas.
 - [[08 - Fraseología TWR español-inglés]] — estructura de transmisiones y colaciones.
@@ -44,7 +44,7 @@ Este mapa ordena el estudio por **función operacional**, no por la guardia en q
 **Pregunta guía:** ¿quién conserva el control, con quién coordino, por qué medio y antes de qué punto?
 
 - [[Resumen día 3]] — APP–TWR, GRF/CAISA, COA y transferencias.
-- [[Resumen lecturas - APP-TWR, GRF, METAR y cartas SULS]] — lectura dirigida de APP–TWR, cartas y contingencias asociadas.
+- [[Resumen lecturas día 1 - APP-TWR, GRF, METAR y cartas SULS]] — lectura dirigida de APP–TWR, cartas y contingencias asociadas.
 - [[Resumen pendientes — normas y operación TWR]] — CAO privadas, MADOR, LAR y circulares.
 - [[Resumen pendientes — puesto, fraseología y tránsito]] — VMO, simulados, helicópteros y circuitos según performance.
 
