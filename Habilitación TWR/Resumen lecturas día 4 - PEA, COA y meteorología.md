@@ -7,7 +7,7 @@ tags:
 
 # Lecturas para el día 4 — PEA SULS, COA y meteorología aplicada
 
-> Preparación de la jornada 4. Integra **plan de emergencia SULS, alertas y notificación**, la **lectura pendiente de COA**, **QNH/QFE/QNE**, **TAF/SIGMET** y repaso de fenómenos y coordinaciones. Es material para leer; su elaboración no marca estos temas como leídos o impartidos.
+> Preparación de la jornada 4. Integra **plan de emergencia SULS, alertas y notificación**, la **lectura pendiente de COA**, **QNH/QFE/QNE**, **TAF/SIGMET** y repaso de fenómenos y coordinaciones. **Lectura completada el 10/09/2026 según confirmación del entrenando.** No hay todavía notas de práctica ni correcciones del OJTI; esta confirmación no acredita aplicación en puesto.
 
 ## Para ubicarse rápido
 
@@ -130,11 +130,11 @@ Las **alertas 1/2/3 del PEA** organizan la respuesta aeroportuaria. Las **fases 
 
 Fuente: LAR 211, capítulo E, §§211.710–211.730, copia de diciembre de 2023.
 
-| Fase                        | Criterios esenciales de estudio                                                                                                                                                                                                                                          |     |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| **INCERFA — incertidumbre** | Falta de comunicación durante 30 min según el punto de cómputo reglamentario; o no llegada dentro de 30 min de la ETA pertinente, salvo que no existan dudas sobre seguridad.                                                                                            |     |
-| **ALERFA — alerta**         | Persisten intentos/consultas sin noticias; no aterriza dentro de 5 min de la hora prevista tras autorización y no se restablece contacto; funcionamiento anormal sin probable aterrizaje forzoso; o interferencia ilícita conocida/sospechada.                           |     |
-| **DETRESFA — peligro**      | Búsqueda de información infructuosa que hace suponer peligro; combustible agotado/insuficiente para lugar seguro; funcionamiento que hace probable aterrizaje forzoso; o certeza razonable de aterrizaje forzoso inminente/realizado, con las salvedades reglamentarias. |     |
+| Fase | Criterios esenciales de estudio |
+|---|---|
+| **INCERFA — incertidumbre** | Falta de comunicación durante 30 min según el punto de cómputo reglamentario; o no llegada dentro de 30 min de la ETA pertinente, salvo que no existan dudas sobre seguridad. |
+| **ALERFA — alerta** | Persisten intentos/consultas sin noticias; no aterriza dentro de 5 min de la hora prevista tras autorización y no se restablece contacto; funcionamiento anormal sin probable aterrizaje forzoso; o interferencia ilícita conocida/sospechada. |
+| **DETRESFA — peligro** | Búsqueda de información infructuosa que hace suponer peligro; combustible agotado/insuficiente para lugar seguro; funcionamiento que hace probable aterrizaje forzoso; o certeza razonable de aterrizaje forzoso inminente/realizado, con las salvedades reglamentarias. |
 
 Para **INCERFA**: en comunicaciones se cuenta desde la hora de recepción esperada o desde el primer intento infructuoso, **lo primero**; para llegada se usa la última ETA anunciada o calculada, **la más tardía**. Los plazos no autorizan a demorar una respuesta cuando otra información ya justifica una fase mayor.
 

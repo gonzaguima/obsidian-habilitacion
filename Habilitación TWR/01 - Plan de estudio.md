@@ -49,7 +49,7 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 
 ### Día 3 — Procedimientos y coordinación
 
-> Jornada completada según confirmación del entrenando del 08/09/2026: todo lo programado para el día 3 fue trabajado, con **4 h de práctica como Ejecutivo**, controlando varias aproximaciones VOR y RNP a distintas pistas. **Única lectura pendiente del día 3: CAO con COA**. El PEA se mantiene para el día 4, como se había asignado.
+> Jornada completada según confirmación del entrenando del 08/09/2026: todo lo programado para el día 3 fue trabajado, con **4 h de práctica como Ejecutivo**, controlando varias aproximaciones VOR y RNP a distintas pistas. La lectura de CAO con COA y el PEA, trasladados al día 4, quedaron completados el 10/09/2026.
 
 - [x] Identificar dependencias y sectores adyacentes: APP, CAISA, El Jagüel y Helipuerto SUR.
 - [x] Repasar las cartas de acuerdo con CAISA y Helipuerto SUR.
@@ -62,22 +62,24 @@ No intentar memorizar todo de corrido. Para cada tema, poder responder:
 SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre del bloque no acredita uso de las cartas de proyecto.
 
 - [x] Repasar contingencias CNS previstas para el día 3.
-- [x] Leer el plan de emergencia del aeródromo — asignado al día 4.
+- [x] Leer el plan de emergencia del aeródromo — completado en las lecturas del día 4.
 - [x] Practicar lectura de METAR.
 - [x] Reconocer aeródromos y modelos de aeronave habituales.
 
 - [x] Trabajar POI APP–TWR, GRF/CAISA y CAO meteorológica.
-- [x] Leer CAO con COA — ya resumida en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
+- [x] Leer CAO con COA — completada en las lecturas del día 4; resumen en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
 
 ### Día 4 — Meteorología y operación
 
+> **Lecturas completadas el 10/09/2026**, según confirmación del entrenando: PEA SULS y alertas, CAO con COA, altimetría, TAF/SIGMET y fenómenos asociados. Aún no hay notas de práctica ni de correcciones del OJTI; por eso los ítems que exigen aplicación en puesto siguen abiertos.
+
 - [x] Interpretar METAR, SPECI, TAF y SIGMET reales.
 - [x] Repasar techo, visibilidad, viento y cortante de viento — trabajado en día 3.
-- [x] Consolidarlo con casos reales durante el día 4.
+- [ ] Consolidarlo con casos reales durante el día 4.
 - [x] Diferenciar QNH, QFE y QNE.
 - [x] Relacionar fenómenos meteorológicos con pista, circuito y separaciones.
 - [x] Trabajar recepción y transmisión meteorológica — día 3.
-- [x] Consolidar la transmisión concisa durante la práctica del día 4.
+- [ ] Consolidar la transmisión concisa durante la práctica del día 4.
 
 ### Día 5 — Emergencias y contingencias
 
@@ -106,9 +108,12 @@ SID/STAR: el paquete AIP SULS consultado no las incluye en su índice; el cierre
 
 ## Práctica acumulada registrada
 
-- Día 2: aproximadamente **2 h**, entre Planificador y Ejecutivo; reparto no registrado.
-- Día 3: **4 h como Ejecutivo**, con aproximaciones VOR y RNP a distintas pistas.
-- Total: aproximadamente **6 h de práctica**. El tiempo como Ejecutivo es 4 h más la parte de Ejecutivo del día 2.
+> Actualizado el 10/09/2026 con confirmación directa del entrenando: en **cada jornada 1–4** realizó aproximadamente **3–4 h como Ejecutivo**, con coordinaciones esporádicas como Planificador. Esta precisión reemplaza el cálculo previo de 2 h para el día 2.
+
+- Días 1 a 4: aproximadamente **3–4 h diarias como Ejecutivo**.
+- Total como Ejecutivo: aproximadamente **12–16 h**.
+- Planificador: coordinaciones esporádicas; duración no registrada.
+- Día 3: incluyó varias aproximaciones VOR y RNP a distintas pistas.
 
 ## Diagnóstico inicial
 

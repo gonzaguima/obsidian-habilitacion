@@ -8,7 +8,7 @@ tags:
 
 Volver a [[00 - Inicio]]. Fuente principal: manual ATS-DATS-12, pp. 5–9.
 
-> Actualización 08/09/2026: el entrenando confirma completado el programa de la jornada 3, con **4 h como Ejecutivo** y varias aproximaciones VOR/RNP a distintas pistas. Queda pendiente **leer la CAO con COA**. Las marcas indican temas tratados; los bloques generales no incluidos en esa jornada siguen abiertos.
+> Actualización 10/09/2026: además de la jornada 3 confirmada, el entrenando confirma completadas las **lecturas del día 4**: PEA/alertas, CAO con COA, altimetría y meteorología aplicada. No se registraron todavía práctica ni correcciones del OJTI de esa jornada.
 
 ## 1. Aeródromo, características físicas y ayudas visuales
 
@@ -38,9 +38,11 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 ## 3. Reglas, procedimientos y fuentes
 
+Resumen de pendientes: [[Resumen pendientes — normas y operación TWR]].
+
 - [x] Introducción a transferencias entre TWR y APP Carrasco.
 - [x] Completar POI entre TWR y APP Carrasco o ACC Montevideo. — día 3.
-- [x] Leer y repasar coordinación con COA — única lectura pendiente de la jornada 3; resumen disponible en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
+- [x] Leer y repasar coordinación con COA — lectura completada en día 4; resumen disponible en [[Resumen día 3#6. CAO con COA — coordinación civil–militar]].
 - [x] Carta de acuerdo TWR SULS–CAISA.
 - [x] Procedimiento GRF SULS y coordinación CAISA — día 3.
 - [x] Carta de acuerdo meteorológica y Anexo II SULS — día 3.
@@ -59,6 +61,8 @@ Producto de estudio: dibujar el espacio aéreo sin mirar y luego corregirlo cont
 
 ## 4. Instalaciones y servicios de navegación aérea
 
+Resumen de pendientes: [[Resumen pendientes — normas y operación TWR]] y [[Resumen pendientes — puesto, fraseología y tránsito]].
+
 - [x] Radioayuda LDS VOR/DME: ubicación y frecuencia.
 - [ ] Completar uso y limitaciones de radioayudas.
 - [x] Cartas de aproximación. — día 3.
@@ -71,6 +75,8 @@ El índice AIP SULS consultado no incluye SID/STAR. No se atribuye ejecución de
 - [ ] Estado de radioayudas y forma de verificarlo.
 
 ## 5. Equipos de control y utilización
+
+Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]]; contingencias: [[Lecturas día 5 — Emergencias y contingencias]].
 
 - [ ] SDD: configuración, funciones, FPL y etiqueta.
 - [ ] SDC: telefonía y comunicaciones.
@@ -86,6 +92,8 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 
 ## 5 bis. Fraseología y radiotelefonía
 
+Material de estudio: [[08 - Fraseología TWR español-inglés]] y [[Resumen pendientes — puesto, fraseología y tránsito]].
+
 - [ ] Estudiar [[08 - Fraseología TWR español-inglés]].
 - [ ] Practicar secuencias normales de salida, circuito y llegada en ambos idiomas.
 - [ ] Practicar colaciones, correcciones, incursión de pista, motor y al aire y emergencias.
@@ -93,11 +101,15 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 
 ## 6. Terreno y referencias
 
+Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]].
+
 - [ ] Obstáculos: ubicación y señalamiento.
 - [ ] Ayudas visuales terrestres.
 - [x] Referencias geográficas útiles para reportes y tránsito VFR.
 
 ## 7. Características del tránsito
+
+Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]].
 
 - [ ] Vuelos locales.
 - [x] Performance general: pistón, turbohélice y jet.
@@ -109,6 +121,8 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 
 ## 7 bis. Registro y fajas
 
+Resumen de pendientes: [[Resumen pendientes — puesto, fraseología y tránsito]].
+
 - [x] Registrar pista utilizada y horas reales de despegue/aterrizaje.
 - [x] Usar `WX` cuando se copian datos del campo.
 - [x] Anotar solicitudes relevantes e instrucciones de salida: rumbo, límite de ascenso y otras restricciones.
@@ -116,24 +130,30 @@ Para cada equipo anotar: uso normal, verificación, limitaciones, indicación de
 
 ## 8. Meteorología
 
+Resumen de pendiente: [[Resumen pendientes — puesto, fraseología y tránsito]].
+
 - [x] Nubes, niebla y bruma. — día 3.
 - [x] Techo y visibilidad; determinación de visibilidad en pista. — día 3.
 - [x] Viento y cortante de viento. — día 3.
 - [ ] Turbulencia y engelamiento.
-- [ ] QNH, QFE y QNE.
+- [x] QNH, QFE y QNE.
 - [x] METAR y SPECI — día 3.
-- [ ] Profundizar interpretación de TAF y SIGMET con informes reales.
+- [x] Profundizar interpretación de TAF y SIGMET con informes reales.
 - [x] Transmisión y recepción de información meteorológica. — día 3.
 
 ## 9. Emergencias y búsqueda y salvamento
 
-- [ ] Plan de emergencia del aeródromo — asignado al día 4.
-- [ ] Alertas y cadena de notificación.
-- [ ] Emergencias e interferencia ilícita.
+Material de estudio: [[Lecturas día 5 — Emergencias y contingencias]].
+
+- [x] Plan de emergencia del aeródromo — lectura completada en día 4.
+- [x] Alertas y cadena de notificación.
+- [x] Emergencias e interferencia ilícita.
 - [x] Contingencias y fallas de comunicaciones del bloque APP–TWR y meteo — día 3.
 - [ ] Completar contingencias y degradación CNS: escenarios de otros equipos, energía y luces.
 
 ## 10. Dimensión actitudinal
+
+Material de estudio: [[Resumen pendiente — competencias OJT]].
 
 - [ ] Relación con instructor y equipo.
 - [ ] Comunicación interpersonal.
